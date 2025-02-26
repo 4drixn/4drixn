@@ -15,7 +15,6 @@
 
 ## 🚀 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Blxsted&layout=compact&theme=radical)
-
 ## 🏆 Trofeos de GitHub
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=Blxsted&theme=onedark)
 
