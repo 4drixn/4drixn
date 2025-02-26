@@ -10,8 +10,8 @@
 - 💻 Lenguajes: Python, JavaScript, HTML/CSS y C++.
 - 
 ## Proyectos 
-- [HazyBot](https://github.com/Blxsted/HazyBot): Un bot de Discord para moderación y diversión.
-- [Mi Portafolio](https://hazybot.net): Mi sitio web personal.
+- [Hazy Bot](https://github.com/Blxsted/HazyBot): Un bot de Discord multi usos.
+- [Mi hijo](https://kilomborp.net)
 
 
 ## 🏆 Trofeos de GitHub
