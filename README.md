@@ -11,7 +11,7 @@
 
 ## Proyectos 
 - [Mi hijo](https://kilomborp.net)
-- Hazy: Un bot de Discord multi usos.
+- [Hazy](https://hazybot.net)
 
 ## 🚀 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Blxsted&layout=compact&theme=radical)
