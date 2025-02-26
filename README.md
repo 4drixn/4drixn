@@ -9,7 +9,7 @@
 - 📫 Cómo contactarme: [adrian@hazybot.net](mailto:adrian@hazybot.net).
 
 ##
-- 💻 Lenguajes: Python, JavaScript, HTML/CSS y C++.
+- 💻 : Python, JavaScript, HTML/CSS y C++.
 
 ## 🏆
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=Blxsted&theme=onedark)
