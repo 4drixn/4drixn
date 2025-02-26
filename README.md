@@ -10,13 +10,11 @@
 - 💻 Lenguajes: Python, JavaScript, HTML/CSS y C++.
 - 
 ## Proyectos 
-- [Hazy]: Un bot de Discord multi usos.
-- [Mi hijo]:(https://kilomborp.net)
+- Hazy: Un bot de Discord multi usos.
+- [Mi hijo](https://kilomborp.net)
 
 
 ## 🏆 Trofeos de GitHub
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=Blxsted&theme=onedark)
 
 
-## Contacto
-- [Twitter](https://twitter.com/adrixnlb21)
