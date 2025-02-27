@@ -1,8 +1,8 @@
 # 👋
 
 ## 
-- 🔭 Founder @ [**Hazy**](https://hazybot.net)
-- 🔭 Founder @ [Mi hijo](https://kilomborp.net)
+- 🔭 Founder @ [**Hazy**](https://hazybot.net) Bot de discord todo-en-uno.
+- 🔭 Founder @ [**Kilombo RP](https://kilomborp.net) Servidor de roleplay ambientado en Argentina.
 
 - 🌱 Estoy aprendiendo **React**, **Tailwind** y **Node.js**.
 - 💬 Pregúntame sobre **JavaScript**, **C++** y **Python**.
