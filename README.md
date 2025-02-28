@@ -12,7 +12,7 @@
 - 💻 : Python, JavaScript, HTML/CSS y C++.
 
 ## 🏆
-![Trofeos](https://github-profile-trophy.vercel.app/?username=Blxsted&theme=onedark)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=4drixn&theme=onedark)
 
 
 
