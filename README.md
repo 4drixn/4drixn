@@ -11,11 +11,6 @@
 ##
 - 💻 : Python, JavaScript, HTML/CSS y C++.
 
-## 🏆
-![Trofeos](https://github-profile-trophy.vercel.app/?username=4drixn&theme=onedark)
-![4drixn GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=onedark)
-
 ### 🚀
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
