@@ -10,7 +10,6 @@
 
 ## 
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=4drixn&theme=onedark)
-![4drixn GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=onedark)
 
 ### 🚀 Lenguajes y herramientas
