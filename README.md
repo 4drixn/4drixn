@@ -1,7 +1,7 @@
 # 👋
 
 ## 
-- 🔭 Founder @ [**Hazy**](https://hazybot.net) Ultimate discord moderation tool.
+- 🔭 Founder @ [**Hazy**](https://hazybot.net) The ultimate discord moderation tool.
 - 📫 How to contact me: [adrian@hazybot.net](mailto:adrian@hazybot.net).
 ## 
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=4drixn&theme=onedark)
