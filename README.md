@@ -17,7 +17,6 @@
 ### 🚀 
 
 - Founder of [**Hazy**](https://hazybot.net) — a complete Discord automation system.
-- 
 ---
 
 ### 🧰 Tech Stack
