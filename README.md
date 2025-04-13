@@ -19,7 +19,7 @@
 - Founder of [**Hazy**](https://hazybot.net) — a complete Discord automation system.
 ---
 
-### 🧰 Tech Stack
+### 🧰 
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 🏆 Achievements
+### 🏆 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=onedark&no-frame=true&row=1&column=7" />
@@ -51,13 +51,13 @@
 
 ---
 
-### 🔧 Projects
+### 🔧 
 
 - **Hazy Bot** – Full-stack Discord system with moderation, logging, custom commands, integrations and more.
 
 ---
 
-### 📬 Let’s Connect
+### 📬
 
 - Mail: [adrian@hazybot.net](mailto:adrian@hazybot.net)
 - Web: [hazybot.net](https://hazybot.net)
