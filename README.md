@@ -28,17 +28,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-RP-orange?style=flat-square" />
-</p>
-
----
-
-### 📈 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
