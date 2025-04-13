@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I’m Adrian 👋</h1>
-<h3 align="center">Founder @ Hazy • Full Stack Dev • Discord Systems Architect</h3>
+<h3 align="center">Founder @ Hazy • Full Stack Dev • Discord Systems</h3>
 
 ---
 
@@ -14,12 +14,10 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 
 
 - Founder of [**Hazy**](https://hazybot.net) — a complete Discord automation system.
-- I build tools that actually help: advanced tickets, stream alerts, staff management, whitelist systems, and more.
-- Focused on performance, clean UI, and making things just work — especially for Discord & RP communities.
-
+- 
 ---
 
 ### 🧰 Tech Stack
@@ -56,9 +54,7 @@
 
 ### 🔧 Projects
 
-- **Hazy Bot** – Full-stack Discord system with moderation, logging, custom commands, integrations (Twitch/Kick), ticket claim system, whitelist flows, and more.
-- **RP Automation Tools** – Key systems, NPC interactions, roulette systems, admin commands, cooldowns and role handling, built for FiveM.
-- **Smart Permissions** – Role-based systems with persistence (MySQL + SQLite) tailored for dynamic Discord teams.
+- **Hazy Bot** – Full-stack Discord system with moderation, logging, custom commands, integrations and more.
 
 ---
 
