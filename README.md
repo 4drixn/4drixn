@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.hazybot.net" target="_blank">
-    <img src="https://img.shields.io/badge/HazyBot-Website-DC2626?style=for-the-badge&labelColor=1F1F1F&logo=googlechrome&logoColor=white" alt="HazyBot Website" />
+    <img src="https://img.shields.io/badge/HazyBot-Website-DC2626?style=for-the-badge&labelColor=1F1F1F&logo=googlechrome&logoColor=white" alt="Hazy Bot Website" />
   </a>
   <a href="mailto:adrian@hazybot.net">
     <img src="https://img.shields.io/badge/Email-adrian%40hazybot.net-DC2626?style=for-the-badge&labelColor=1F1F1F&logo=gmail&logoColor=white" alt="Email Adrian" />
