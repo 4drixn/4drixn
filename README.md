@@ -29,7 +29,6 @@
 
 <br>
 
-gg for Sofi -->
 <details>
 <summary>🎀</summary>
 <br>
