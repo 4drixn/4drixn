@@ -31,6 +31,14 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&hide_border=true&background=000000&stroke=6B7280&ring=DC2626&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
+<details>
+<summary>🔥</summary>
+<br>
+<div align="center">
+<h3>Te amo Sofia 💕</h3>
+</div>
+</details>
+
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" />
