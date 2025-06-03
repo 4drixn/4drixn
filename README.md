@@ -29,6 +29,10 @@
 
 <br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&hide_border=true&background=000000&stroke=6B7280&ring=DC2626&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+
+<br>
+
 <details>
 <summary>🎀</summary>
 <br>
@@ -39,7 +43,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA" />
 
 <br>
 
