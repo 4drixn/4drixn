@@ -31,11 +31,14 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&hide_border=true&background=000000&stroke=6B7280&ring=DC2626&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
+<br>
+
+<!-- Easter egg for Sofi -->
 <details>
-<summary>🔥</summary>
+<summary>🎀</summary>
 <br>
 <div align="center">
-<h3>Te amo Sofia 💕</h3>
+<h3>Sofi ❤️</h3>
 </div>
 </details>
 
