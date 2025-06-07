@@ -1,7 +1,6 @@
 <div align="center">
 
 # Adrian
-### Full Stack Developer
 
 <br>
 
