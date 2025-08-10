@@ -33,7 +33,6 @@
 <br>
 
 <details>
-<summary>🎀</summary>
 <br>
 <div align="center">
 </div>
