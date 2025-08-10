@@ -36,7 +36,6 @@
 <summary>🎀</summary>
 <br>
 <div align="center">
-<h3>Sofi ❤️</h3>
 </div>
 </details>
 
