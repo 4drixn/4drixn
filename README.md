@@ -32,12 +32,6 @@
 
 <br>
 
-<details>
-<br>
-<div align="center">
-</div>
-</details>
-
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" />
