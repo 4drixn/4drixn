@@ -1,29 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D72323&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Adrian+👋;Founder+%40+FASORP;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D72323&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Adrian+👋;Full-Stack+Developer;FiveM+Specialist" alt="Typing SVG" />
 
 <br>
 
-<table>
+## 🚀 Mis Proyectos Principales
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr align="center">
-    <td>
-      <a href="https://www.hazybot.net" target="_blank">
-        <img src="https://img.shields.io/badge/-HAZYBOT.NET-D72323?style=for-the-badge&labelColor=0d1117" />
+    <td width="50%">
+      <a href="https://hazybot.net" style="text-decoration:none;">
+        <h3>🤖 HazyBot.net</h3>
+      </a>
+      <i>Discord's most useful bot.</i>
+      <br><br>
+      <a href="https://hazybot.net" target="_blank">
+        <img src="https://img.shields.io/badge/FOUNDER @ HAZYBOT.NET-D72323?style=for-the-badge&logo=Hazy&logoColor=white">
       </a>
     </td>
-    <td>
-      <a href="mailto:adrian@hazybot.net">
-        <img src="https://img.shields.io/badge/-ADRIAN@HAZYBOT.NET-D72323?style=for-the-badge&labelColor=0d1117" />
+    <td width="50%">
+      <a href="https://fasorp.com" style="text-decoration:none;">
+        <h3>🎮 FasoRP.com</h3>
       </a>
-    </td>
-    <td>
+      <i>Servidor de roleplay por y para la comunidad.</i>
+      <br><br>
       <a href="https://fasorp.com" target="_blank">
-        <img src="https://img.shields.io/badge/-FASORP.COM-FFFFFF?style=for-the-badge&labelColor=0d1117" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:adrian@fasorp.com">
-        <img src="https://img.shields.io/badge/-ADRIAN@FASORP.COM-FFFFFF?style=for-the-badge&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/FOUNDER @ FASORP.COM-24292E?style=for-the-badge&logo=FiveM&logoColor=white">
       </a>
     </td>
   </tr>
@@ -31,47 +33,34 @@
 
 <br>
 
-### 💻 Tech Stack
+### 💻 Stack Tecnológico
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-24292E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-24292E?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Python-24292E?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-24292E?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Lua-24292E?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+  <img src="https://img.shields.io/badge/MySQL-24292E?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/SQLite-24292E?style=for-the-badge&logo=sqlite&logoColor=003B57" />
 </p>
 
 <br>
 
-### 🚀 Current Projects
-
-<p align="center">
-  <a href="https://fasorp.com">
-    <img src="https://img.shields.io/badge/-FASO%20RP-FFFFFF?style=for-the-badge&labelColor=0d1117" />
-  </a>
-  <a href="https://hazybot.net">
-    <img src="https://img.shields.io/badge/-HAZYBOT-D72323?style=for-the-badge&labelColor=0d1117" />
-  </a>
-</p>
-
-<br>
-
-### 🔥 GitHub Stats
+### 🔥 Mis Estadísticas en GitHub
 
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=D72323&icon_color=D72323&text_color=282A36&count_private=true" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&hide_border=true&bg_color=FEFEFE&title_color=D72323&icon_color=D72323&text_color=24292E&count_private=true" height="180" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=D72323&text_color=282A36" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&hide_border=true&bg_color=FEFEFE&title_color=D72323&text_color=24292E" height="180" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&hide_border=true&background=FFFFFF&stroke=D72323&ring=D72323&fire=D72323&currStreakLabel=282A36&sideLabels=282A36&dates=282A36&sideNums=D72323&currStreakNum=D72323" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&hide_border=true&background=FEFEFE&stroke=D72323&ring=D72323&fire=D72323&currStreakLabel=24292E&sideLabels=24292E&dates=24292E&sideNums=D72323&currStreakNum=D72323" />
     </td>
   </tr>
     <tr>
