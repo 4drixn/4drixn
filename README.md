@@ -41,8 +41,6 @@
   <img src="https://img.shields.io/badge/Python-24292E?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/C++-24292E?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/Lua-24292E?style=for-the-badge&logo=lua&logoColor=2C2D72" />
-  <img src="https://img.shields.io/badge/MySQL-24292E?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/SQLite-24292E?style=for-the-badge&logo=sqlite&logoColor=003B57" />
 </p>
 
 <br>
