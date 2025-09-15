@@ -1,11 +1,14 @@
 <div align="center">
 
+<!-- Header animado con gradiente -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Adrian%20👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20FiveM%20Specialist&descAlignY=55&descSize=18" />
 
+<!-- Typing animation mejorada -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=D72323&center=true&vCenter=true&width=600&height=60&lines=🚀+Building+Digital+Experiences;🎮+Creating+Gaming+Communities;🤖+Developing+Smart+Solutions;💻+Full-Stack+%26+FiveM+Expert" alt="Typing SVG" />
 
 <br><br>
 
+<!-- Proyectos principales con diseño moderno -->
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
   <span style="color: #D72323;">Proyectos Destacados</span>
@@ -15,7 +18,7 @@
   <tr align="center">
     <td style="background: linear-gradient(135deg, #D72323 0%, #FF4757 100%); border-radius: 15px; padding: 25px; box-shadow: 0 10px 25px rgba(215, 35, 35, 0.3);">
       <a href="https://hazybot.net" style="text-decoration:none; color: white;">
-        <h3 style="color: white; margin: 0 0 10px 0;">🤖 hazybot.net</h3>
+        <h3 style="color: white; margin: 0 0 10px 0;">🤖 HazyBot.net</h3>
       </a>
       <p style="color: #FFE5E5; margin: 10px 0; font-style: italic; font-size: 14px;">
         Discord's most advanced multipurpose bot
@@ -52,6 +55,7 @@
 
 <br><br>
 
+<!-- Stack tecnológico con animaciones -->
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   <span style="color: #D72323;">Tech Stack</span>
@@ -68,6 +72,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
   
+  <!-- Backend -->
   <h3 style="color: #D72323; margin: 25px 0 15px;">⚙️ Backend</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -76,6 +81,7 @@
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   </p>
   
+  <!-- Database & Tools -->
   <h3 style="color: #D72323; margin: 25px 0 15px;">🛠️ Database & Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -84,6 +90,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
   
+  <!-- Gaming -->
   <h3 style="color: #D72323; margin: 25px 0 15px;">🎮 Gaming Development</h3>
   <p>
     <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
@@ -94,6 +101,7 @@
 
 <br>
 
+<!-- Estadísticas mejoradas -->
 <h2>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   <span style="color: #D72323;">GitHub Analytics</span>
@@ -122,6 +130,7 @@
   
   <br><br>
   
+  <!-- Trofeos con mejor diseño -->
   <img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews&rank=SECRET,SSS,SS,S,AAA,AA,A&bg_color=FEFEFE&title_color=D72323&text_color=24292E" />
 </div>
 
