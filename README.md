@@ -10,10 +10,10 @@
   <tr align="center">
     <td style="background: linear-gradient(135deg, #D72323 0%, #FF4757 100%); border-radius: 15px; padding: 25px; box-shadow: 0 10px 25px rgba(215, 35, 35, 0.3);">
       <a href="https://hazybot.net" style="text-decoration:none; color: white;">
-        <h3 style="color: white; margin: 0 0 10px 0;">🤖 hazybot.net</h3>
+        <h3 style="color: white; margin: 0 0 10px 0;">Hazy</h3>
       </a>
       <p style="color: #FFE5E5; margin: 10px 0; font-style: italic; font-size: 14px;">
-        Discord's most advanced multipurpose bot
+        Discord's most advanced multipurpose bot.
       </p>
       <br>
       <a href="https://hazybot.net" target="_blank">
@@ -22,7 +22,7 @@
     </td>
     <td style="background: linear-gradient(135deg, #FFFFFF 0%, #F8F9FA 100%); border: 2px solid #E9ECEF; border-radius: 15px; padding: 25px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
       <a href="https://fasorp.com" style="text-decoration:none; color: #24292E;">
-        <h3 style="color: #24292E; margin: 0 0 10px 0;">🎮 fasorp.com</h3>
+        <h3 style="color: #24292E; margin: 0 0 10px 0;">Faso RP</h3>
       </a>
       <p style="color: #6A737D; margin: 10px 0; font-style: italic; font-size: 14px;">
         Servidor de roleplay argentino por y para la gente.
