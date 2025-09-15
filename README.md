@@ -114,7 +114,7 @@
 
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-  <span style="color: #D72323;">Connect With Me</span>
+  <span style="color: #D72323;">Contacto</span>
 </h2>
 
 <div align="center" style="background: linear-gradient(135deg, #D72323 0%, #FF4757 100%); padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(215, 35, 35, 0.3);">
@@ -128,7 +128,7 @@
   <a href="https://fasorp.com" target="_blank">
     <img src="https://img.shields.io/badge/🎮_Faso RP-FFFFFF?style=for-the-badge&logo=gamepad&logoColor=D72323&labelColor=FFFFFF" />
   </a>
-  <a href="mailto:contact@example.com" target="_blank">
+  <a href="adrian@fasorp.com" target="_blank">
     <img src="https://img.shields.io/badge/✉️_Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D72323&labelColor=FFFFFF" />
   </a>
 </div>
