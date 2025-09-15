@@ -15,7 +15,7 @@
   <tr align="center">
     <td style="background: linear-gradient(135deg, #D72323 0%, #FF4757 100%); border-radius: 15px; padding: 25px; box-shadow: 0 10px 25px rgba(215, 35, 35, 0.3);">
       <a href="https://hazybot.net" style="text-decoration:none; color: white;">
-        <h3 style="color: white; margin: 0 0 10px 0;">🤖 HazyBot.net</h3>
+        <h3 style="color: white; margin: 0 0 10px 0;">🤖 hazybot.net</h3>
       </a>
       <p style="color: #FFE5E5; margin: 10px 0; font-style: italic; font-size: 14px;">
         Discord's most advanced multipurpose bot
