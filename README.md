@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Adrian%20👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20FiveM%20Specialist&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Adrian%20👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=D72323&center=true&vCenter=true&width=600&height=60&lines=Hey+I'm+Adrian;Chicago%2C+USA;Full-Stack+Developer" alt="Typing SVG" />
 
@@ -49,7 +49,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #F8F9FA 0%, #FFFFFF 100%); padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
   
-  <h3 style="color: #D72323; margin-bottom: 15px;">🎨 Frontend</h3>
+  <h3 style="color: #D72323; margin-bottom: 15px;">🎨</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
   
-  <h3 style="color: #D72323; margin: 25px 0 15px;">⚙️ Backend</h3>
+  <h3 style="color: #D72323; margin: 25px 0 15px;">⚙️</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   </p>
   
-  <h3 style="color: #D72323; margin: 25px 0 15px;">🛠️ Database & Tools</h3>
+  <h3 style="color: #D72323; margin: 25px 0 15px;">🛠️</h3>
   <p>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
   
-  <h3 style="color: #D72323; margin: 25px 0 15px;">🎮 Gaming Development</h3>
+  <h3 style="color: #D72323; margin: 25px 0 15px;">🎮</h3>
   <p>
     <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
     <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -129,10 +129,10 @@
   </p>
   
   <a href="https://hazybot.net" target="_blank">
-    <img src="https://img.shields.io/badge/🤖_HazyBot-FFFFFF?style=for-the-badge&logo=discord&logoColor=D72323&labelColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/🤖_Hazy Bot-FFFFFF?style=for-the-badge&logo=discord&logoColor=D72323&labelColor=FFFFFF" />
   </a>
   <a href="https://fasorp.com" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_FasoRP-FFFFFF?style=for-the-badge&logo=gamepad&logoColor=D72323&labelColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/🎮_Faso RP-FFFFFF?style=for-the-badge&logo=gamepad&logoColor=D72323&labelColor=FFFFFF" />
   </a>
   <a href="mailto:contact@example.com" target="_blank">
     <img src="https://img.shields.io/badge/✉️_Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D72323&labelColor=FFFFFF" />
