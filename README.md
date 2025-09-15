@@ -6,11 +6,6 @@
 
 <br><br>
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  <span style="color: #D72323;">Proyectos Destacados</span>
-</h2>
-
 <table align="center" border="0" cellpadding="20" cellspacing="0" style="border-collapse: separate; border-spacing: 20px;">
   <tr align="center">
     <td style="background: linear-gradient(135deg, #D72323 0%, #FF4757 100%); border-radius: 15px; padding: 25px; box-shadow: 0 10px 25px rgba(215, 35, 35, 0.3);">
