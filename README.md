@@ -27,7 +27,7 @@
     </td>
     <td style="background: linear-gradient(135deg, #FFFFFF 0%, #F8F9FA 100%); border: 2px solid #E9ECEF; border-radius: 15px; padding: 25px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
       <a href="https://fasorp.com" style="text-decoration:none; color: #24292E;">
-        <h3 style="color: #24292E; margin: 0 0 10px 0;">🎮 FasoRP.com</h3>
+        <h3 style="color: #24292E; margin: 0 0 10px 0;">🎮 fasorp.com</h3>
       </a>
       <p style="color: #6A737D; margin: 10px 0; font-style: italic; font-size: 14px;">
         Servidor de roleplay argentino por y para la gente.
