@@ -39,7 +39,6 @@
 
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <span style="color: #D72323;">Tech Stack</span>
 </h2>
 
 <div align="center" style="background: linear-gradient(135deg, #F8F9FA 0%, #FFFFFF 100%); padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
