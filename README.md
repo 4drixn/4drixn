@@ -13,32 +13,30 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
+
 <img src="https://img.shields.io/badge/🤖_HAZY_BOT-000000?style=for-the-badge&labelColor=000000" height="40"/>
 
-**Role:** Founder & Developer
+<h3>Founder & Developer</h3>
 
-Discord's most advanced multipurpose bot.
+<p>Discord's most advanced multipurpose bot.</p>
 
 <a href="https://hazybot.net">
 <img src="https://img.shields.io/badge/VISIT-HAZYBOT.NET-D72323?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-**Stack:** Node.js • Discord.js • MongoDB
-
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
+
 <img src="https://img.shields.io/badge/🎮_KILOMBO_RP-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF" height="40"/>
 
-**Role:** CEO
+<h3>CEO</h3>
 
-Servidor de roleplay argentino por y para la gente.
+<p>Servidor de roleplay argentino por y para la gente.</p>
 
 <a href="https://kilomborp.net">
 <img src="https://img.shields.io/badge/VISIT-KILOMBORP.NET-FFFFFF?style=for-the-badge&logo=gamepad&logoColor=000000&labelColor=FFFFFF"/>
 </a>
-
-**Stack:** FiveM • Lua • MySQL
 
 </td>
 </tr>
