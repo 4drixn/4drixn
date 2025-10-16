@@ -25,11 +25,37 @@ Discord's most advanced multipurpose bot.
 <h3 style="color: white; margin: 0 0 10px 0;">Kilombo RP</h3>
 </a>
 <p style="color: #CCCCCC; margin: 10px 0; font-style: italic; font-size: 14px;">
-Servidor de roleplay argentino por y para la gente.
+Servidor de roleplay argentino.
 </p>
 <br>
 <a href="https://kilomborp.net" target="_blank">
 <img src="https://img.shields.io/badge/-KILOMBORP.NET-FFFFFF?style=for-the-badge&logo=gamepad&logoColor=000000&labelColor=FFFFFF">
+</a>
+</td>
+</tr>
+<tr align="center">
+<td style="background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%); border-radius: 15px; padding: 25px; box-shadow: 0 10px 25px rgba(124, 58, 237, 0.3);">
+<a href="https://sploit.store" style="text-decoration:none; color: white;">
+<h3 style="color: white; margin: 0 0 10px 0;">Sploit Store</h3>
+</a>
+<p style="color: #F3E8FF; margin: 10px 0; font-style: italic; font-size: 14px;">
+Plataforma de herramientas digitales.
+</p>
+<br>
+<a href="https://sploit.store" target="_blank">
+<img src="https://img.shields.io/badge/-SPLOIT.STORE-FFFFFF?style=for-the-badge&logo=shield&logoColor=7c3aed&labelColor=FFFFFF">
+</a>
+</td>
+<td style="background: linear-gradient(135deg, #F8F9FA 0%, #FFFFFF 100%); border-radius: 15px; padding: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border-left: 5px solid #D72323;">
+<h3 style="color: #24292E; margin: 0 0 10px 0;">
+<img src="https://img.shields.io/badge/Ex_Founder-D72323?style=flat-square&logoColor=white" alt="Ex Founder" />
+Faso RP
+</h3>
+<p style="color: #6A737D; margin: 10px 0; font-style: italic; font-size: 14px;">
+Servidor de roleplay argentino.
+</p>
+<a href="https://fasorp.com" target="_blank">
+<img src="https://img.shields.io/badge/-FASORP.COM-6A737D?style=for-the-badge&logo=gamepad&logoColor=FFFFFF&labelColor=6A737D">
 </a>
 </td>
 </tr>
@@ -115,27 +141,6 @@ Servidor de roleplay argentino por y para la gente.
 <br>
 
 <h2>
-<span style="color: #D72323;">📦 Proyectos Pasados</span>
-</h2>
-
-<div align="center" style="background: linear-gradient(135deg, #F8F9FA 0%, #FFFFFF 100%); padding: 25px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border-left: 5px solid #D72323;">
-
-<h3 style="color: #24292E; margin: 0 0 10px 0;">
-<img src="https://img.shields.io/badge/Ex_Founder-D72323?style=flat-square&logoColor=white" alt="Ex Founder" />
-Faso RP
-</h3>
-<p style="color: #6A737D; margin: 10px 0; font-style: italic; font-size: 14px;">
-Servidor de roleplay argentino
-</p>
-<a href="https://fasorp.com" target="_blank">
-<img src="https://img.shields.io/badge/-FASORP.COM-6A737D?style=for-the-badge&logo=gamepad&logoColor=FFFFFF&labelColor=6A737D">
-</a>
-
-</div>
-
-<br>
-
-<h2>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
 <span style="color: #D72323;">Contacto</span>
 </h2>
@@ -151,6 +156,9 @@ Servidor de roleplay argentino
 </a>
 <a href="https://kilomborp.net" target="_blank">
 <img src="https://img.shields.io/badge/🎮_Kilombo RP-FFFFFF?style=for-the-badge&logo=gamepad&logoColor=D72323&labelColor=FFFFFF" />
+</a>
+<a href="https://sploit.store" target="_blank">
+<img src="https://img.shields.io/badge/🛡️_Sploit Store-FFFFFF?style=for-the-badge&logo=shield&logoColor=D72323&labelColor=FFFFFF" />
 </a>
 <a href="mailto:adrian@fasorp.com" target="_blank">
 <img src="https://img.shields.io/badge/✉️_Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D72323&labelColor=FFFFFF" />
