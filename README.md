@@ -10,22 +10,23 @@
 
 ## 💼 My Projects
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🤖 Hazy Bot
-**My Role:** Founder & Developer
+**Role:** Founder & Developer
 
 Discord's most advanced multipurpose bot.
 
 [![Visit](https://img.shields.io/badge/Visit-HAZYBOT.NET-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://hazybot.net)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🎮 Kilombo RP
-**My Role:** Founder & Owner
+**Role:** CEO
 
 Servidor de roleplay argentino por y para la gente.
 
@@ -34,6 +35,7 @@ Servidor de roleplay argentino por y para la gente.
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -56,7 +58,7 @@ Plataforma de herramientas digitales y servicios premium.
 ### 🌐 FiveSoft
 **My Role:** Developer
 
-Plataforma para contratar developers de FiveM para scripts bien hechos.
+Plataforma para contratar developers de FiveM para scripts profesionales.
 
 [![Visit](https://img.shields.io/badge/Visit-FIVESOFT.CC-00D9FF?style=for-the-badge&logo=code&logoColor=white)](https://fivesoft.cc)
 
@@ -64,7 +66,7 @@ Plataforma para contratar developers de FiveM para scripts bien hechos.
 <td width="33%" valign="top">
 
 ### 🏙️ Faso RP
-**My Role:** Ex Co-Founder
+**My Role:** Ex Founder
 
 Servidor de roleplay argentino con legado establecido (cerrado).
 
