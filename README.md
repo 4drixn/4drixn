@@ -13,29 +13,33 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/🤖_HAZY_BOT-000000?style=for-the-badge&labelColor=000000" height="40"/>
+### 🤖 Hazy Bot
 
-<h3>Founder & Developer</h3>
+**Founder & Developer**
 
-<p>Discord's most advanced multipurpose bot.</p>
+Discord's most advanced multipurpose bot.
+
+<br>
 
 <a href="https://hazybot.net">
 <img src="https://img.shields.io/badge/VISIT-HAZYBOT.NET-D72323?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/🎮_KILOMBO_RP-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF" height="40"/>
+### 🎮 Kilombo RP
 
-<h3>CEO</h3>
+**CEO**
 
-<p>Servidor de roleplay argentino por y para la gente.</p>
+Servidor de roleplay argentino por y para la gente.
+
+<br>
 
 <a href="https://kilomborp.net">
-<img src="https://img.shields.io/badge/VISIT-KILOMBORP.NET-FFFFFF?style=for-the-badge&logo=gamepad&logoColor=000000&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VISIT-KILOMBORP.NET-FFFFFF?style=for-the-badge&logo=gamepad&logoColor=000000&labelColor=000000"/>
 </a>
 
 </td>
@@ -51,11 +55,14 @@
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/🛡️_SPLOIT_STORE-000000?style=for-the-badge&labelColor=7c3aed&color=000000" height="40"/>
 
-**Role:** Developer
+### 🛡️ Sploit Store
+
+**Developer**
 
 Plataforma de herramientas digitales y servicios premium.
+
+<br>
 
 <a href="https://sploit.store">
 <img src="https://img.shields.io/badge/VISIT-SPLOIT.STORE-7c3aed?style=for-the-badge&logo=shopping-cart&logoColor=white"/>
@@ -63,11 +70,14 @@ Plataforma de herramientas digitales y servicios premium.
 
 </td>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/🌐_FIVESOFT-000000?style=for-the-badge&labelColor=00D9FF&color=000000" height="40"/>
 
-**Role:** Developer
+### 🌐 FiveSoft
+
+**Developer**
 
 Plataforma para contratar developers de FiveM profesionales.
+
+<br>
 
 <a href="https://fivesoft.cc">
 <img src="https://img.shields.io/badge/VISIT-FIVESOFT.CC-00D9FF?style=for-the-badge&logo=code&logoColor=000000"/>
@@ -75,11 +85,14 @@ Plataforma para contratar developers de FiveM profesionales.
 
 </td>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/🏙️_FASO_RP-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF" height="40"/>
 
-**Role:** Founder
+### 🏙️ Faso RP
+
+**Founder**
 
 Servidor de roleplay argentino (cerrado).
+
+<br>
 
 <img src="https://img.shields.io/badge/STATUS-CLOSED-6c757d?style=for-the-badge"/>
 
