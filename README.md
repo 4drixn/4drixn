@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Adrian%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-### Full Stack Dev
+### Full Stack Developer • Creator • Innovator
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=38bdf8&center=true&vCenter=true&width=500&lines=Building+modern+solutions.;Crafting+efficient+systems.;Always+improving.)](https://git.io/typing-svg)
 
@@ -27,6 +27,8 @@
 
 <br><br>
 
+**JavaScript • TypeScript • React • HTML • CSS • Node.js • Python • Lua • C++ • MySQL • MongoDB • Flask • Docker • Git**
+
 </div>
 
 ---
@@ -40,8 +42,8 @@
 
 <!-- Kilombo RP -->
 <td width="50%" style="padding:20px; text-align:center; vertical-align:top; background-color:#0f172a; border-radius:12px;">
-<img src="https://img.icons8.com/fluency/96/controller.png" width="64"/>
-<h3>🎮 Kilombo RP</h3>
+<img src="https://img.icons8.com/fluency/80/controller.png" width="56"/>
+<h3>Kilombo RP</h3>
 <p>FiveM Roleplay Server</p>
 
 <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
@@ -51,14 +53,14 @@
 
 <br><br>
 <a href="https://kilomborp.net">
-<img src="https://img.shields.io/badge/kilomborp.net-0f172a?style=for-the-badge&color=1e3a8a"/>
+<img src="https://img.shields.io/badge/kilomborp.net-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </td>
 
 <!-- Hazy Bot -->
 <td width="50%" style="padding:20px; text-align:center; vertical-align:top; background-color:#0f172a; border-radius:12px;">
-<img src="https://img.icons8.com/fluency/96/bot.png" width="64"/>
-<h3>🤖 Hazy Bot</h3>
+<img src="https://img.icons8.com/fluency/80/bot.png" width="56"/>
+<h3>Hazy Bot</h3>
 <p>Discord Multipurpose Bot</p>
 
 <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -68,7 +70,7 @@
 
 <br><br>
 <a href="https://hazybot.net">
-<img src="https://img.shields.io/badge/hazybot.net-0f172a?style=for-the-badge&color=1e3a8a"/>
+<img src="https://img.shields.io/badge/hazybot.net-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </td>
 
@@ -77,8 +79,8 @@
 
 <!-- Sploit Store -->
 <td width="50%" style="padding:20px; text-align:center; vertical-align:top; background-color:#0f172a; border-radius:12px;">
-<img src="https://img.icons8.com/fluency/96/security-shield-green.png" width="64"/>
-<h3>🛡️ Sploit Store</h3>
+<img src="https://img.icons8.com/fluency/80/security-shield-green.png" width="56"/>
+<h3>Sploit Store</h3>
 <p>Digital Platform</p>
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -88,14 +90,14 @@
 
 <br><br>
 <a href="https://sploit.store">
-<img src="https://img.shields.io/badge/sploit.store-0f172a?style=for-the-badge&color=1e3a8a"/>
+<img src="https://img.shields.io/badge/sploit.store-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </td>
 
 <!-- Faso RP -->
 <td width="50%" style="padding:20px; text-align:center; vertical-align:top; background-color:#0f172a; border-radius:12px;">
-<img src="https://img.icons8.com/fluency/96/archive.png" width="64"/>
-<h3>📦 Faso RP</h3>
+<img src="https://img.icons8.com/fluency/80/archive.png" width="56"/>
+<h3>Faso RP</h3>
 <p>Legacy Project</p>
 
 <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
@@ -114,12 +116,31 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=tokyonight&hide_border=true" height="160" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=4drixn&color=1e3a8a&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/4drixn?label=Followers&style=for-the-badge&color=1e3a8a"/>
+<img src="https://img.shields.io/github/stars/4drixn?label=Stars&style=for-the-badge&color=1e3a8a"/>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="mailto:adrian@hazybot.net"><img src="https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/4drixn"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://hazybot.net"><img src="https://img.shields.io/badge/Website-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://sploit.store"><img src="https://img.shields.io/badge/Sploit%20Store-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
