@@ -6,13 +6,7 @@
 
 </div>
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║  Desarrollador full-stack apasionado por crear aplicaciones robustas    ║
-║  y escalables. Experiencia en múltiples tecnologías y frameworks.       ║
-║  Siempre explorando nuevas tecnologías y mejorando mis habilidades.     ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+
 
 ---
 
@@ -23,22 +17,18 @@
 <td width="25%" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
 <br><strong>JavaScript</strong>
-<br><sub>⚡ Advanced</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
 <br><strong>React</strong>
-<br><sub>⚛️ Intermediate</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
 <br><strong>HTML5</strong>
-<br><sub>🌐 Expert</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
 <br><strong>CSS3</strong>
-<br><sub>🎨 Advanced</sub>
 </td>
 </tr>
 </table>
@@ -50,22 +40,18 @@
 <td width="25%" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
 <br><strong>Node.js</strong>
-<br><sub>💚 Advanced</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
 <br><strong>Python</strong>
-<br><sub>🐍 Intermediate</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
 <br><strong>C++</strong>
-<br><sub>⚡ Intermediate</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50" alt="Lua" />
 <br><strong>Lua</strong>
-<br><sub>🌙 Expert</sub>
 </td>
 </tr>
 </table>
@@ -234,14 +220,8 @@ Siempre abierto a nuevas oportunidades y colaboraciones interesantes.
 
 ---
 
-```ascii
-╭─────────────────────────────────────────────────────────────────────────╮
-│                                                                         │
-│  "Building the future, one commit at a time." 🚀                       │
-│                                                                         │
-│  © 2025 Adrian - Full Stack Developer                                  │
-│                                                                         │
-╰─────────────────────────────────────────────────────────────────────────╯
-```
+<br>
+
+**© 2025 Adrian**
 
 </div>
