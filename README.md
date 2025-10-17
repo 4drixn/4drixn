@@ -17,7 +17,7 @@
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 
 
 <div align="left">
 
