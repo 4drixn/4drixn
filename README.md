@@ -1,121 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=200&section=header&text=Adrian&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:6366F1&height=200&section=header&text=Adrián%20⚡&fontSize=45&fontColor=fff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FiveM+%26+Discord+Expert;Building+Next-Gen+Digital+Projects" alt="Typing SVG"/>
+### Developer • Creator • Innovator
 
-<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F97316&center=true&vCenter=true&width=500&lines=Building+modern+projects.;Turning+ideas+into+reality.;Always+evolving.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 About Me
+
+- 💼 Currently working on **Kilombo RP**, **Hazy Bot**, and **Sploit Store**.  
+- ⚙️ Passionate about backend, APIs, and automation.  
+- 🚀 Always experimenting with new frameworks and improving performance.  
+- 🌎 Based in **Argentina**.  
+- 📬 Reach me at **lainezkromber@gmail.com**
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,python,cpp,lua,mysql,mongodb,flask,docker,git&theme=dark&perline=7" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,python,cpp,lua,mysql,mongodb,git,docker,flask&theme=dark&perline=7" />
+
+<br>
+
+<p>
+JavaScript • React • HTML • CSS • Node.js • Python • C++ • Lua • MySQL • MongoDB • Git • Docker • Flask
+</p>
 
 </div>
 
 ---
 
-## 🚀 Featured Work
+## 💼 Featured Work
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/000000/controller.png" width="70" alt="Kilombo RP"/>
+<img src="https://img.icons8.com/fluency/96/000000/controller.png" width="64" />
 
-### **Kilombo RP**
+<h3>Kilombo RP</h3>
+<p>Servidor de Roleplay</p>
 
-<sub>Servidor de Roleplay</sub>
+<br>
 
-<br><br>
-
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![ESX](https://img.shields.io/badge/ESX-00D9FF?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/ESX-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br><br>
 
-[![KilomboRP](https://img.shields.io/badge/🌐_kilomborp.net-111111?style=for-the-badge)](https://kilomborp.net)
+<a href="https://kilomborp.net">
+<img src="https://img.shields.io/badge/kilomborp.net-000000?style=for-the-badge" />
+</a>
 
-</div>
 </td>
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/000000/bot.png" width="70" alt="Hazy Bot"/>
+<img src="https://img.icons8.com/fluency/96/000000/bot.png" width="64" />
 
-### **Hazy Bot**
+<h3>Hazy Bot</h3>
+<p>Discord Multipurpose Bot</p>
 
-<sub>Discord Multipurpose Bot</sub>
+<br>
 
-<br><br>
-
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <br><br>
 
-[![HazyBot](https://img.shields.io/badge/🌐_hazybot.net-111111?style=for-the-badge)](https://hazybot.net)
+<a href="https://hazybot.net">
+<img src="https://img.shields.io/badge/hazybot.net-000000?style=for-the-badge" />
+</a>
 
-</div>
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/000000/security-shield-green.png" width="70" alt="Sploit Store"/>
+<img src="https://img.icons8.com/fluency/96/000000/security-shield-green.png" width="64" />
 
-### **Sploit Store**
+<h3>Sploit Store</h3>
+<p>Digital Platform</p>
 
-<sub>Digital Platform</sub>
+<br>
 
-<br><br>
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <br><br>
 
-[![Sploit](https://img.shields.io/badge/🌐_sploit.store-111111?style=for-the-badge)](https://sploit.store)
+<a href="https://sploit.store">
+<img src="https://img.shields.io/badge/sploit.store-000000?style=for-the-badge" />
+</a>
 
-</div>
 </td>
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/000000/archive.png" width="70" alt="Faso RP"/>
+<img src="https://img.icons8.com/fluency/96/000000/archive.png" width="64" />
 
-### **Faso RP**
+<h3>Faso RP</h3>
+<p>Legacy Project</p>
 
-<sub>Legacy Project</sub>
+<br>
 
-<br><br>
-
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![ESX](https://img.shields.io/badge/ESX-00D9FF?style=for-the-badge)
-![Legacy](https://img.shields.io/badge/Legacy-FFD700?style=for-the-badge)
+<img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/ESX-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Legacy-FFD700?style=for-the-badge" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Status-CERRADO-3a3a3a?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Status-CERRADO-grey?style=for-the-badge" />
 
-</div>
 </td>
 </tr>
 </table>
@@ -128,38 +137,15 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=dark&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=000000&hide_border=true" alt="Streak"/>
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&hide_border=true&langs_count=8" alt="Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=4drixn&bg_color=000000&color=ffffff&line=3a3a3a&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" alt="Activity"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=onestar&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adriankromber&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adriankromber&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
 ---
 
-## 🤝 Connect
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-adrian@hazybot.net-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian@hazybot.net)
-[![Kilombo RP](https://img.shields.io/badge/Kilombo_RP-kilomborp.net-000000?style=for-the-badge&logo=gamepad&logoColor=white)](https://kilomborp.net)
-[![Hazy Bot](https://img.shields.io/badge/Hazy_Bot-hazybot.net-000000?style=for-the-badge&logo=discord&logoColor=white)](https://hazybot.net)
-[![Sploit Store](https://img.shields.io/badge/Sploit_Store-sploit.store-000000?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://sploit.store)
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=4drixn&style=for-the-badge&color=111111&label=VIEWS)
-![Followers](https://img.shields.io/github/followers/4drixn?style=for-the-badge&color=111111&label=FOLLOWERS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:F97316&height=120&section=footer" />
 
 </div>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=120&section=footer" alt="footer"/>
