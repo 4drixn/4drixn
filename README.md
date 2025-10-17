@@ -35,87 +35,39 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<!-- Project Grid -->
-<table style="width:100%; border:none;">
-<tr>
-
-<!-- Kilombo RP -->
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/controller.png" width="70" />
-  <h3>Kilombo RP</h3>
-  <p><i>FiveM Roleplay Server</i></p>
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESX-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br><br>
-  <a href="https://kilomborp.net">
-    <img src="https://img.shields.io/badge/VISIT-kilomborp.net-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</td>
-
-<!-- Hazy Bot -->
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/bot.png" width="70" />
-  <h3>Hazy Bot</h3>
-  <p><i>Discord Multipurpose Bot</i></p>
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br><br>
-  <a href="https://hazybot.net">
-    <img src="https://img.shields.io/badge/VISIT-hazybot.net-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</td>
-
-<!-- Sploit Store -->
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/security-shield-green.png" width="70" />
-  <h3>Sploit Store</h3>
-  <p><i>Digital Platform for Scripts & Licenses</i></p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br><br>
-  <a href="https://sploit.store">
-    <img src="https://img.shields.io/badge/VISIT-sploit.store-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</td>
-
-</tr>
-<tr>
-
-<!-- FiveSoft -->
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/code-file.png" width="70" />
-  <h3>FiveSoft</h3>
-  <p><i>Premium FiveM Resources & Verified Accounts</i></p>
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br><br>
-  <a href="https://fivesoft.cc">
-    <img src="https://img.shields.io/badge/VISIT-fivesoft.cc-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</td>
-
-<!-- Faso RP -->
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/archive.png" width="70" />
-  <h3>Faso RP</h3>
-  <p><i>Legacy Project</i></p>
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESX-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Legacy-FFD700?style=for-the-badge"/><br><br>
-  <img src="https://img.shields.io/badge/Status-CLOSED-grey?style=for-the-badge"/>
-</td>
-
-</tr>
-</table>
-
-</div>
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  KILOMBO RP                                    kilomborp.net              │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│  FiveM · Lua · ESX · MySQL                                                  │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  HAZY BOT                                        hazybot.net              │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│  Discord.js · Node.js · MongoDB · JavaScript                                │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  SPLOIT STORE                                   sploit.store              │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│  Flask · JavaScript · MySQL · CSS3                                          │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  FIVESOFT                                        fivesoft.cc              │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│  FiveM · JavaScript · HTML5 · CSS3                                          │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  FASO RP                                                    [Closed]        │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│  FiveM · Lua · ESX                                                          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
