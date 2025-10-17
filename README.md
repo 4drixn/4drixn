@@ -68,9 +68,6 @@
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
-
-**[→ Visit Kilombo RP](https://kilomborp.net)** · **[→ Visit Hazy Bot](https://hazybot.net)** · **[→ Visit Sploit Store](https://sploit.store)** · **[→ Visit FiveSoft](https://fivesoft.cc)**
-
 </div>
 
 ---
