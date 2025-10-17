@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Adrian&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Adrian&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=👋+Full+Stack+Developer;🎮+FiveM+%26+Discord+Expert;🚀+Building+Digital+Experiences;📍+Chicago%2C+Illinois" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -16,35 +16,28 @@
 
 </div>
 
-<br>
-
 ---
-
-<br>
-
-<div align="center">
 
 ## 💼 Featured Work
 
-</div>
-
-<br>
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <div align="center">
+
 <img src="https://img.icons8.com/fluency/96/000000/controller.png" width="64" alt="Gaming"/>
 
 ### **Kilombo RP**
 
-<sub>🏙️ Servidor de Roleplay Argentino</sub>
+<sub>🏙️ Servidor de Roleplay</sub>
 
 <br>
 
-Servidor de roleplay argentino.
+<p>Proyecto público / Enlace y detalles en el sitio.</p>
 
-<br><br>
+<br>
 
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -59,6 +52,7 @@ Servidor de roleplay argentino.
 </td>
 <td width="50%" valign="top">
 <div align="center">
+
 <img src="https://img.icons8.com/fluency/96/000000/bot.png" width="64" alt="Bot"/>
 
 ### **Hazy Bot**
@@ -67,9 +61,9 @@ Servidor de roleplay argentino.
 
 <br>
 
-Discord's most advanced multipurpose bot.
+<p>Proyecto público / Enlace y detalles en el sitio.</p>
 
-<br><br>
+<br>
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -86,6 +80,7 @@ Discord's most advanced multipurpose bot.
 <tr>
 <td width="50%" valign="top">
 <div align="center">
+
 <img src="https://img.icons8.com/fluency/96/000000/security-shield-green.png" width="64" alt="Store"/>
 
 ### **Sploit Store**
@@ -94,9 +89,9 @@ Discord's most advanced multipurpose bot.
 
 <br>
 
-Plataforma de herramientas digitales y servicios premium.
+<p>Proyecto público / Enlace y detalles en el sitio.</p>
 
-<br><br>
+<br>
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -111,6 +106,7 @@ Plataforma de herramientas digitales y servicios premium.
 </td>
 <td width="50%" valign="top">
 <div align="center">
+
 <img src="https://img.icons8.com/fluency/96/000000/archive.png" width="64" alt="Archive"/>
 
 ### **Faso RP**
@@ -119,9 +115,9 @@ Plataforma de herramientas digitales y servicios premium.
 
 <br>
 
-Servidor de roleplay argentino.
+<p>Proyecto legado — cerrado / sin mantenimiento activo.</p>
 
-<br><br>
+<br>
 
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -130,24 +126,20 @@ Servidor de roleplay argentino.
 
 <br>
 
-![Status](https://img.shields.io/badge/CERRADO-grey?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-CERRADO-grey?style=for-the-badge" alt="Status"/>
 
 </div>
 </td>
 </tr>
 </table>
 
-<br>
+</div>
 
 ---
 
-<br>
-
-<div align="center">
-
 ## 📊 GitHub Insights
 
-<br>
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=transparent&title_color=000000&icon_color=000000&text_color=666666&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=transparent&ring=000000&fire=000000&currStreakLabel=000000&stroke=e0e0e0&currStreakNum=000000&sideNums=000000&sideLabels=666666&dates=666666&background=ffffff&hide_border=true" alt="GitHub Streak" />
@@ -163,23 +155,15 @@ Servidor de roleplay argentino.
 
 </div>
 
-<br>
-
----
-
-<br>
-
-<div align="center">
-
 ## 🤝 Let's Build Together
 
-<br>
+<div align="center">
 
 Siempre abierto a nuevas oportunidades y colaboraciones. **¡Hagamos algo increíble!** ✨
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/Email-adrian@fasorp.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian@fasorp.com)
+[![Email](https://img.shields.io/badge/Email-adrian@hazybot.net-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian@fasorp.com)
 [![Kilombo RP](https://img.shields.io/badge/Kilombo_RP-kilomborp.net-000000?style=for-the-badge&logo=gamepad&logoColor=white)](https://kilomborp.net)
 [![Hazy Bot](https://img.shields.io/badge/Hazy_Bot-hazybot.net-000000?style=for-the-badge&logo=discord&logoColor=white)](https://hazybot.net)
 [![Sploit Store](https://img.shields.io/badge/Sploit_Store-sploit.store-000000?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://sploit.store)
@@ -193,6 +177,4 @@ Siempre abierto a nuevas oportunidades y colaboraciones. **¡Hagamos algo incre�
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" alt="Footer" />
