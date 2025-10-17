@@ -1,4 +1,53 @@
-<div align="center">
+<table>
+<tr>
+<td width="50%">
+<br>
+
+**🎮 [Kilombo RP](https://kilomborp.net)**  
+Servidor de roleplay argentino.
+
+![FiveM](https://img.shields.io/badge/FiveM-000?style=flat&logo=fivem&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000?style=flat&logo=lua&logoColor=white)
+![ESX](https://img.shields.io/badge/ESX-000?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white)
+
+<br>
+
+</td>
+<td width="50%">
+<br>
+
+**🤖 [Hazy Bot](https://hazybot.net)**  
+Discord's most advanced multipurpose bot.
+
+![Discord.js](https://img.shields.io/badge/Discord.js-000?style=flat&logo=discord&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white)
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+<br>
+
+**🛡️ [Sploit Store](https://sploit.store)**  
+Plataforma de herramientas digitales y servicios premium.
+
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=white)
+
+<br>
+
+</td>
+<td width="50%">
+<br>
+
+**📦 Faso RP** · ![Status](https://img.shields.io/badge/Cerrado-grey?style=flat)  <div align="center">
 
 # 👋 Hola, soy Adrian
 
@@ -40,82 +89,58 @@
 
 <br>
 
-</div>
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-<div align="center">
+**🎮 [Kilombo RP](https://kilomborp.net)**  
+Servidor de roleplay argentino.
 
-### 🎮 Kilombo RP
-[![Visit Site](https://img.shields.io/badge/🌐_kilomborp.net-000000?style=for-the-badge)](https://kilomborp.net)
-
-<img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/ESX-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-</div>
-
-Servidor de roleplay argentino por y para la gente. Comunidad activa y en constante crecimiento con scripts custom.
+![FiveM](https://img.shields.io/badge/FiveM-000?style=flat&logo=fivem&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000?style=flat&logo=lua&logoColor=white)
+![ESX](https://img.shields.io/badge/ESX-000?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-<div align="center">
+**🤖 [Hazy Bot](https://hazybot.net)**  
+Discord's most advanced multipurpose bot.
 
-### 🤖 Hazy Bot
-[![Visit Site](https://img.shields.io/badge/🌐_hazybot.net-000000?style=for-the-badge)](https://hazybot.net)
-
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-</div>
-
-Discord's most advanced multipurpose bot. Más de 100+ comandos y funcionalidades premium para servidores.
+![Discord.js](https://img.shields.io/badge/Discord.js-000?style=flat&logo=discord&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-<div align="center">
+**🛡️ [Sploit Store](https://sploit.store)**  
+Plataforma de herramientas digitales y servicios premium.
 
-### 🛡️ Sploit Store
-[![Visit Site](https://img.shields.io/badge/🌐_sploit.store-000000?style=for-the-badge)](https://sploit.store)
-
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-</div>
-
-Plataforma de herramientas digitales y servicios premium. Soluciones profesionales para desarrolladores.
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-<div align="center">
+**📦 Faso RP** · ![Status](https://img.shields.io/badge/Cerrado-grey?style=flat)  
+Servidor de roleplay argentino.
 
-### 📦 Faso RP
-<img src="https://img.shields.io/badge/Estado-Cerrado-grey?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/ESX-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Legacy-FFD700?style=flat-square" />
-
-</div>
-
-Servidor de roleplay argentino que marcó una época. Proyecto cerrado pero con gran legado en la comunidad.
+![FiveM](https://img.shields.io/badge/FiveM-000?style=flat&logo=fivem&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000?style=flat&logo=lua&logoColor=white)
+![ESX](https://img.shields.io/badge/ESX-000?style=flat)
+![Legacy](https://img.shields.io/badge/Legado-000?style=flat)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
