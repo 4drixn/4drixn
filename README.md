@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <div align="left">
 
@@ -91,23 +91,31 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e3a8a&icon_color=1e3a8a&text_color=ffffff" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=tokyonight&hide_border=true&background=0d1117&ring=1e3a8a&fire=1e3a8a&currStreakLabel=1e3a8a" height="170" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=1e3a8a&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github)](https://github.com/4drixn)
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=4drixn&theme=radical&hide_border=true&background=0d1117&ring=1e3a8a&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9)](https://github.com/4drixn)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e3a8a&text_color=ffffff" height="170" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=1e3a8a&text_color=c9d1d9&langs_count=8)](https://github.com/4drixn)
 
 </div>
 
 ---
 
-## 🏆 
+## 🏆
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=4drixn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/4drixn)
+
+</div>
+
+---
+
+## 📈 
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4drixn&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1e3a8a&point=58a6ff)](https://github.com/4drixn)
 
 </div>
 
@@ -119,7 +127,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=4drixn&color=1e3a8a&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/4drixn?label=Followers&style=for-the-badge&color=1e3a8a&logo=github)
-![Stars](https://img.shields.io/github/stars/4drixn?label=Stars&style=for-the-badge&color=1e3a8a&logo=github)
+![Stars](https://img.shields.io/github/stars/4drixn?label=Total+Stars&style=for-the-badge&color=1e3a8a&logo=github)
 
 </div>
 
