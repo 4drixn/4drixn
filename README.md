@@ -121,7 +121,7 @@
 
 ---
 
-## 📈 Profile Stats
+## 📈
 
 <div align="center">
 
