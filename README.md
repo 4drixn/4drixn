@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Adrian%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff69b4&height=200&section=header&text=Adrian%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 ### Full Stack Developer
 
@@ -38,88 +38,103 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="left">
 
-### 🎮 KILOMBO RP
-FiveM roleplay server with custom scripts and ESX framework
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  KILOMBO RP                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  #1 ARG FiveM Server                                                        │
+│  FiveM · Lua · ESX · MySQL                                                  │
+│                                                                             │
+```
+**[→ kilomborp.net](https://kilomborp.net)**
 
-**Stack:** `Lua` `FiveM` `ESX` `MySQL`
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  HAZY BOT                                                                   │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  Discord's Most Advanced Bot                                                │
+│  Discord.js · Node.js · MongoDB · JavaScript                                │
+│                                                                             │
+```
+**[→ hazybot.net](https://hazybot.net)**
 
-🔗 [kilomborp.net](https://kilomborp.net)
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  SPLOIT STORE                                                               │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  E-commerce for Digital Products                                            │
+│  Flask · JavaScript · MySQL · CSS3                                          │
+│                                                                             │
+```
+**[→ sploit.store](https://sploit.store)**
 
-</td>
-<td width="50%">
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  FIVESOFT                                                                   │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  FiveM Resources & Development Tools                                        │
+│  FiveM · JavaScript · HTML5 · CSS3                                          │
+│                                                                             │
+```
+**[→ fivesoft.cc](https://fivesoft.cc)**
 
-### 🤖 HAZY BOT
-Advanced Discord bot with moderation, economy, and automation
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  FASO RP [Closed]                                                           │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  Previous FiveM Roleplay Project                                            │
+│  FiveM · Lua · ESX                                                          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-**Stack:** `Discord.js` `Node.js` `MongoDB`
-
-🔗 [hazybot.net](https://hazybot.net)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 SPLOIT STORE
-E-commerce platform for digital products
-
-**Stack:** `Flask` `JavaScript` `MySQL` `CSS3`
-
-🔗 [sploit.store](https://sploit.store)
-
-</td>
-<td width="50%">
-
-### 💾 FIVESOFT
-FiveM resources and development tools
-
-**Stack:** `FiveM` `JavaScript` `HTML5` `CSS3`
-
-🔗 [fivesoft.cc](https://fivesoft.cc)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=1e3a8a&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=4drixn&theme=radical&hide_border=true&background=0d1117&ring=1e3a8a&fire=58a6ff&currStreakLabel=58a6ff" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=1e3a8a&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=4drixn&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1e3a8a&point=58a6ff&height=180" />
+<img src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&rank_icon=github" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=radical&hide_border=true&background=0a0a0a&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff" height="170" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-## 📈 Metrics
+## 📈 Profile Stats
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=4drixn&color=1e3a8a&style=for-the-badge&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/4drixn?label=FOLLOWERS&style=for-the-badge&color=1e3a8a&logo=github)
-![](https://img.shields.io/github/stars/4drixn?label=TOTAL+STARS&style=for-the-badge&color=1e3a8a&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=4drixn&color=ff69b4&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/4drixn?label=Followers&style=for-the-badge&color=ff69b4&logo=github)
+![Stars](https://img.shields.io/github/stars/4drixn?label=Stars&style=for-the-badge&color=ff69b4&logo=github)
 
 </div>
 
@@ -129,11 +144,11 @@ FiveM resources and development tools
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian@hazybot.net)
-[![Discord](https://img.shields.io/badge/🤖_HazyBot-1e3a8a?style=for-the-badge&logo=discord&logoColor=white)](https://hazybot.net)
-[![FiveM](https://img.shields.io/badge/🎮_KilomboRP-0f172a?style=for-the-badge&logo=fivem&logoColor=white)](https://kilomborp.net)
-[![Store](https://img.shields.io/badge/🛒_Sploit_Store-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://sploit.store)
-[![Dev](https://img.shields.io/badge/💾_FiveSoft-0f172a?style=for-the-badge&logo=codeforces&logoColor=white)](https://fivesoft.cc)
+<a href="mailto:adrian@hazybot.net"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://hazybot.net"><img src="https://img.shields.io/badge/HazyBot-ff69b4?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://kilomborp.net"><img src="https://img.shields.io/badge/KilomboRP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white"/></a>
+<a href="https://sploit.store"><img src="https://img.shields.io/badge/Sploit%20Store-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://fivesoft.cc"><img src="https://img.shields.io/badge/FiveSoft-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 </div>
 
@@ -141,6 +156,6 @@ FiveM resources and development tools
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:0a0a0a&height=120&section=footer" />
 
 </div>
