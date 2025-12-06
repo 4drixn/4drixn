@@ -101,34 +101,30 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&rank_icon=github" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=radical&hide_border=true&background=0a0a0a&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff" height="170" />
+![Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&rank_icon=github)
+![Streak](https://streak-stats.demolab.com/?user=4drixn&hide_border=true&background=0a0a0a&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff" height="170" />
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=4drixn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Stars,Followers,Repositories,Issues,PullRequest,Experience)
 
 </div>
 
 ---
 
-## 📈 Profile Stats
+## 📈 
 
 <div align="center">
 
