@@ -101,34 +101,34 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&rank_icon=github"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&hide_border=true&background=0a0a0a&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_title=false&card_width=500"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=4drixn&hide_border=true&background=0a0a0a&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&langs_count=8"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&langs_count=8&hide_title=false&card_width=500"/>
 
 </div>
 
 ---
 
-## 📈 Profile Stats
+## 🏆 
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+
+</div>
+
+---
+
+## 📈
 
 <div align="center">
 
