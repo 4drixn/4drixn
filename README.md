@@ -27,7 +27,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -105,14 +105,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_title=false&card_width=500"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=4drixn&hide_border=true&background=0a0a0a&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=4drixn&hide_border=true&background=0a0a0a&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&langs_count=8&hide_title=false&card_width=500"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&langs_count=8"/>
 
 </div>
 
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
