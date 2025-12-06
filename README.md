@@ -101,19 +101,6 @@
 
 ---
 
-## 📊 
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&rank_icon=github)
-![Streak](https://streak-stats.demolab.com/?user=4drixn&hide_border=true&background=0a0a0a&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff)
-
-</div>
-
----
-
 ## 🏆 
 
 <div align="center">
