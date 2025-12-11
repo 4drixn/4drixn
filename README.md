@@ -27,7 +27,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -41,7 +41,6 @@
 ## 🚀 My Projects
 
 <div align="left">
-
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
@@ -52,7 +51,6 @@
 │                                                                             │
 ```
 **[→ kilomborp.net](https://kilomborp.net)**
-
 ```
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
@@ -63,7 +61,6 @@
 │                                                                             │
 ```
 **[→ hazybot.net](https://hazybot.net)**
-
 ```
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
@@ -74,7 +71,6 @@
 │                                                                             │
 ```
 **[→ sploit.store](https://sploit.store)**
-
 ```
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
@@ -85,7 +81,6 @@
 │                                                                             │
 ```
 **[→ fivesoft.cc](https://fivesoft.cc)**
-
 ```
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
@@ -101,46 +96,40 @@
 
 ---
 
-## 📊 
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/4drixn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
-</a>
-<a href="https://github.com/4drixn">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=4drixn&theme=dark&hide_border=true&background=0a0a0a&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=radical&hide_border=true&background=0a0a0a&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/4drixn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&langs_count=8&custom_title=Most%20Used%20Languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&langs_count=8"/>
 
 </div>
 
 ---
 
-## 🏆 
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Stars,Followers,Repositories,Issues,PullRequest,Experience"/>
+<img src="https://github-profile-trophy.vercel.app/?username=4drixn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
 ---
 
-## 📈
+## 📈 Profile Stats
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=4drixn&color=ff69b4&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/4drixn?label=Followers&style=for-the-badge&color=ff69b4&logo=github)
-![Stars](https://img.shields.io/github/stars/4drixn?label=Stars&style=for-the-badge&color=ff69b4&logo=github)
+![Stars](https://img.shields.io/github/stars/4drixn?label=Total+Stars&style=for-the-badge&color=ff69b4&logo=github)
 
 </div>
 
@@ -152,9 +141,9 @@
 
 <a href="mailto:adrian@hazybot.net"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://hazybot.net"><img src="https://img.shields.io/badge/HazyBot-ff69b4?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://kilomborp.net"><img src="https://img.shields.io/badge/KilomboRP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white"/></a>
-<a href="https://sploit.store"><img src="https://img.shields.io/badge/Sploit%20Store-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://fivesoft.cc"><img src="https://img.shields.io/badge/FiveSoft-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://kilomborp.net"><img src="https://img.shields.io/badge/KilomboRP-0a0a0a?style=for-the-badge&logo=gamepad&logoColor=white"/></a>
+<a href="https://sploit.store"><img src="https://img.shields.io/badge/Sploit%20Store-0a0a0a?style=for-the-badge&logo=shopify&logoColor=white"/></a>
+<a href="https://fivesoft.cc"><img src="https://img.shields.io/badge/FiveSoft-0a0a0a?style=for-the-badge&logo=code&logoColor=white"/></a>
 
 </div>
 
