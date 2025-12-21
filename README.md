@@ -46,7 +46,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=radical&hide_border=true&background=0a0a0a&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
+![GitHub Streak](https://streak-stats.demolab.com/?user=4drixn&theme=radical&hide_border=true&background=0a0a0a&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
 
 </div>
 
@@ -82,7 +82,7 @@
 │                                                                             │
 │  KILOMBO LIFE                                                               │
 │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
-│  Fivem server roleplay serio argentino                                      │
+│  Serious Argentine Roleplay Server                                          │
 │  FiveM · Lua · ESX · MySQL                                                  │
 │                                                                             │
 ```
