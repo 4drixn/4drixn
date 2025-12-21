@@ -38,6 +38,30 @@
 
 ---
 
+## 📊 
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=radical&hide_border=true&background=0a0a0a&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
+
+</div>
+
+---
+
+## 🏆 
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=4drixn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
 ## 🚀 My Projects
 
 <div align="left">
@@ -52,6 +76,17 @@
 │                                                                             │
 ```
 **[→ kilomborp.net](https://kilomborp.net)**
+
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  KILOMBO LIFE                                                               │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  Fivem server roleplay serio argentino                                      │
+│  FiveM · Lua · ESX · MySQL                                                  │
+│                                                                             │
+```
+**[→ kilombo.life](https://kilombo.life)**
 
 ```
 ├─────────────────────────────────────────────────────────────────────────────┤
@@ -101,7 +136,7 @@
 
 ---
 
-## 📈
+## 📈 
 
 <div align="center">
 
@@ -120,6 +155,7 @@
 <a href="mailto:adrian@hazybot.net"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://hazybot.net"><img src="https://img.shields.io/badge/HazyBot-ff69b4?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://kilomborp.net"><img src="https://img.shields.io/badge/KilomboRP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white"/></a>
+<a href="https://kilombo.life"><img src="https://img.shields.io/badge/Kilombo%20Life-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white"/></a>
 <a href="https://sploit.store"><img src="https://img.shields.io/badge/Sploit%20Store-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://fivesoft.cc"><img src="https://img.shields.io/badge/FiveSoft-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
