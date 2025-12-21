@@ -50,18 +50,6 @@
 
 </div>
 
----
-
-## 🏆 
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=4drixn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ## 🚀 My Projects
 
 <div align="left">
