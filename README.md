@@ -4,8 +4,8 @@
 
 ### Full Stack Developer
 
-**Creando productos digitales desde Chicago**  
-Discord bots, plataformas web y sistemas/servidores de FiveM
+**Building digital products from Chicago**  
+Discord bots, web platforms, and FiveM systems/servers
 
 [![Email](https://img.shields.io/badge/Email-adrian@hazybot.net-ff69b4?style=flat-square&logo=gmail&logoColor=white)](mailto:adrian@hazybot.net)
 [![Discord](https://img.shields.io/badge/Discord-92tif-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/92tif)
@@ -17,16 +17,17 @@ Discord bots, plataformas web y sistemas/servidores de FiveM
 
 ## 🧠 About Me
 
-- 💻 **Full Stack Developer** enfocado en performance, seguridad y automatización
-- ⚙️ Especializado en sistemas backend, APIs e infraestructuras escalables
-- 🌎 Basado en **Chicago, Illinois**
-- 🎯 Creando soluciones digitales para comunidades y empresas
+- 💻 **Full Stack Developer** focused on performance, security & automation
+- ⚙️ Specialized in backend systems, APIs, and scalable infrastructures
+- 🌎 Based in **Chicago, Illinois**
+- 🎯 Creating digital solutions for communities and businesses
+- 🚀 Passionate about building scalable applications and innovative platforms
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Lenguajes
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,59 +61,99 @@ Discord bots, plataformas web y sistemas/servidores de FiveM
 
 ---
 
-## 🚀 Proyectos
+## 🚀 My Projects
 
-### [Hazy Bot](https://hazybot.net)
-**Discord Bot Multipropósito**
+<div align="left">
 
-El mejor bot de Discord con panel web configurable. Sistema completo de gestión, moderación y automatización.
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  🔷 KILOMBO RP                                                              │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│  #1 ARG FiveM Server                                                        │
+│  FiveM · Lua · ESX · MySQL · JavaScript · OxLib                            │
+│                                                                             │
+│  Argentina's #1 roleplay server with custom systems, economy, and           │
+│  persistence. Built by and for the community.                              │
+│                                                                             │
+```
+**[→ kilomborp.net](https://kilomborp.net)**
 
-**Stack:** Discord.js · Node.js · Flask · MongoDB · JavaScript
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  🔷 KILOMBO LIFE                                                            │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│  Serious Argentine Roleplay Server                                          │
+│  FiveM · Lua · ESX · MySQL                                                  │
+│                                                                             │
+│  Serious Argentine roleplay server with unique mechanics and advanced      │
+│  gameplay systems.                                                          │
+│                                                                             │
+```
+**[→ kilombo.life](https://kilombo.life)**
 
----
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  🔷 HAZY BOT                                                                │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│  Discord's Most Advanced Bot                                                │
+│  Discord.js · Node.js · MongoDB · JavaScript · Flask                      │
+│                                                                             │
+│  The most advanced Discord bot with configurable web panel. Complete       │
+│  management, moderation, and automation system.                           │
+│                                                                             │
+```
+**[→ hazybot.net](https://hazybot.net)**
 
-### [Kilombo RP](https://kilomborp.net)
-**Servidor FiveM Roleplay #1 ARG**
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  🔷 SPLOIT STORE                                                            │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│  E-commerce for Digital Products                                            │
+│  Flask · JavaScript · MySQL · CSS3                                          │
+│                                                                             │
+│  E-commerce platform with payment system, online web store, and            │
+│  self-checkout functionality.                                              │
+│                                                                             │
+```
+**[→ sploit.store](https://sploit.store)**
 
-Servidor #1 argentino de roleplay con sistemas custom, economía y persistencia. Hecho por y para la gente.
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  🔷 FIVESOFT                                                                │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│  FiveM Resources & Development Tools                                       │
+│  Flask · JavaScript · HTML5 · CSS3 · Python                                │
+│                                                                             │
+│  Platform connecting clients with FiveM developers. Marketplace and       │
+│  project management system.                                                  │
+│                                                                             │
+```
+**[→ fivesoft.cc](https://fivesoft.cc)**
 
-**Stack:** FiveM · Lua · ESX · MySQL · JavaScript · OxLib
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  🔷 FASO RP [Closed]                                                        │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│  Previous FiveM Roleplay Project                                            │
+│  FiveM · Lua · ESX · MySQL                                                  │
+│                                                                             │
+│  Argentine roleplay server. Founder project where I developed base systems  │
+│  and laid the foundation for future developments.                           │
+│                                                                             │
+```
+**[→ fasorp.com](https://fasorp.com/)**
 
----
+```
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-### [Kilombo Life](https://kilombo.life)
-**Servidor FiveM Roleplay Serio**
-
-Servidor de roleplay serio argentino con mecánicas únicas y sistemas avanzados de jugabilidad.
-
-**Stack:** FiveM · Lua · ESX · MySQL
-
----
-
-### [Sploit Store](https://sploit.store)
-**E-commerce para Productos Digitales**
-
-Plataforma e-commerce con sistema de pagos, tienda web online y self-checkout.
-
-**Stack:** Flask · JavaScript · MySQL · CSS3
-
----
-
-### [FiveSoft](https://fivesoft.cc)
-**Marketplace FiveM**
-
-Plataforma conectando clientes con desarrolladores FiveM. Marketplace y gestión de proyectos.
-
-**Stack:** Flask · JavaScript · HTML5 · CSS3 · Python
-
----
-
-### [Faso RP](https://fasorp.com/)
-**Ex-Founder · Proyecto Histórico**
-
-Servidor argentino de roleplay. Proyecto fundador donde desarrollé sistemas base y senté las bases para futuros desarrollos.
-
-**Stack:** FiveM · Lua · ESX · MySQL
+</div>
 
 ---
 
