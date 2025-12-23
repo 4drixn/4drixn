@@ -67,7 +67,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ## 🚀 Featured Projects
 
-### [<img src="https://img.shields.io/badge/KILOMBO%20RP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" />](https://kilomborp.net) <img src="https://img.shields.io/badge/CEO%20%7C%20Dev-ff69b4?style=flat-square" />
+### [<img src="https://img.shields.io/badge/KILOMBO%20RP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" />](https://kilomborp.net) <img src="https://img.shields.io/badge/CEO%20%7C%20Dev-ff69b4?style=for-the-badge" />
 
 > **#1 ARG FiveM Server**  
 > Argentina's #1 roleplay server with custom systems, economy, and persistence. Built by and for the community.
@@ -76,7 +76,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-### [<img src="https://img.shields.io/badge/KILOMBO%20LIFE-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" />](https://kilombo.life) <img src="https://img.shields.io/badge/Management%20%7C%20Game%20Dev-ff69b4?style=flat-square" />
+### [<img src="https://img.shields.io/badge/KILOMBO%20LIFE-06B6D4?style=for-the-badge&logo=fivem&logoColor=white" />](https://kilombo.life) <img src="https://img.shields.io/badge/Management%20%7C%20Game%20Dev-ff69b4?style=for-the-badge" />
 
 > **Serious Argentine Roleplay Server**  
 > Serious Argentine roleplay server with unique mechanics and advanced gameplay systems.
@@ -85,7 +85,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-### [<img src="https://img.shields.io/badge/HAZY%20BOT-ff69b4?style=for-the-badge&logo=discord&logoColor=white" />](https://hazybot.net) <img src="https://img.shields.io/badge/Owner%20%7C%20Dev-ff69b4?style=flat-square" />
+### [<img src="https://img.shields.io/badge/HAZY%20BOT-DC2626?style=for-the-badge&logo=discord&logoColor=white" />](https://hazybot.net) <img src="https://img.shields.io/badge/Owner%20%7C%20Dev-ff69b4?style=for-the-badge" />
 
 > **Discord's Most Advanced Bot**  
 > The most advanced Discord bot with configurable web panel. Complete management, moderation, and automation system.
@@ -94,7 +94,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-### [<img src="https://img.shields.io/badge/SPLOIT%20STORE-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" />](https://sploit.store) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=flat-square" />
+### [<img src="https://img.shields.io/badge/SPLOIT%20STORE-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />](https://sploit.store) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=for-the-badge" />
 
 > **E-commerce for Digital Products**  
 > E-commerce platform with payment system, online web store, and self-checkout functionality.
@@ -103,7 +103,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-### [<img src="https://img.shields.io/badge/FIVESOFT-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white" />](https://fivesoft.cc) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=flat-square" />
+### [<img src="https://img.shields.io/badge/FIVESOFT-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" />](https://fivesoft.cc) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=for-the-badge" />
 
 > **FiveM Resources & Development Tools**  
 > Platform connecting clients with FiveM developers. Marketplace and project management system.
@@ -112,7 +112,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-### [<img src="https://img.shields.io/badge/FASO%20RP%20[Closed]-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" />](https://fasorp.com/) <img src="https://img.shields.io/badge/Ex%20Founder-ff69b4?style=flat-square" />
+### [<img src="https://img.shields.io/badge/FASO%20RP%20[Closed]-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" />](https://fasorp.com/) <img src="https://img.shields.io/badge/Ex%20Founder-ff69b4?style=for-the-badge" />
 
 > **Previous FiveM Roleplay Project**  
 > Argentine roleplay server. Founder project where I developed base systems and laid the foundation for future developments.
