@@ -44,7 +44,6 @@ Full Stack Developer with a focus on high-performance systems, automation, and r
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -54,41 +53,34 @@ Full Stack Developer with a focus on high-performance systems, automation, and r
 
 ---
 
-## 🚀 Featured Projects
-
-### [Hazy Bot](https://hazybot.net) · *Discord's Most Advanced Bot*
-**Tech:** Discord.js · Node.js · Flask · MongoDB · JavaScript  
-Complete Discord bot ecosystem with web dashboard, automation systems, and extensive customization options. Focus on performance and user experience.
-
-### [Kilombo RP](https://kilomborp.net) · *#1 Argentine FiveM Roleplay Server*
-**Tech:** FiveM · Lua · ESX · MySQL · OxLib  
-Leading FiveM roleplay server with custom systems, persistent economy, and advanced gameplay mechanics. Community-focused development.
-
-### [Kilombo Life](https://kilombo.life) · *Serious Argentine Roleplay*
-**Tech:** FiveM · Lua · ESX · MySQL  
-High-quality roleplay server with unique mechanics and advanced gameplay systems for serious roleplayers.
-
-### [Sploit Store](https://sploit.store) · *Digital Products E-commerce*
-**Tech:** Flask · JavaScript · MySQL · CSS3  
-Modern e-commerce platform with integrated payment systems, self-checkout, and digital product management.
-
-### [FiveSoft](https://fivesoft.cc) · *FiveM Development Marketplace*
-**Tech:** Flask · JavaScript · HTML5 · CSS3 · Python  
-Platform connecting FiveM developers with clients. Marketplace, project management, and resource distribution.
-
-### [Faso RP](https://fasorp.com) · *Historic Project*
-**Tech:** FiveM · Lua · ESX · MySQL  
-Founder and former lead developer. Established core systems and foundation for future roleplay server developments.
-
----
-
-## 📊 GitHub Analytics
+## 🚀 Projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&text_color=000000)
+| Project | Role | Description | Tech Stack |
+|---------|------|-------------|------------|
+| **[Hazy Bot](https://hazybot.net)** | `Owner` | Discord's most advanced bot with web dashboard and automation | Discord.js · Node.js · Flask · MongoDB |
+| **[Kilombo RP](https://kilomborp.net)** | `CEO` | #1 Argentine FiveM roleplay server with custom systems | FiveM · Lua · ESX · MySQL · OxLib |
+| **[Kilombo Life](https://kilombo.life)** | `CEO` | Serious roleplay server with unique mechanics | FiveM · Lua · ESX · MySQL |
+| **[Sploit Store](https://sploit.store)** | `Lead Dev` | E-commerce platform for digital products | Flask · JavaScript · MySQL · CSS3 |
+| **[FiveSoft](https://fivesoft.cc)** | `Lead Dev` | FiveM development marketplace and tools | Flask · JavaScript · HTML5 · Python |
+| **[Faso RP](https://fasorp.com)** | `Ex-Founder` | Historic project - established core systems | FiveM · Lua · ESX · MySQL |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000)
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&text_color=000000&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&hide_title=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=4drixn&color=000000&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/4drixn?label=Followers&style=flat-square&color=000000)
+![GitHub Stars](https://img.shields.io/github/stars/4drixn?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat-square&color=000000)
 
 </div>
 
@@ -101,7 +93,7 @@ Founder and former lead developer. Established core systems and foundation for f
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian@hazybot.net)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adrian.is-a.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4drixn)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/92tif)
+[![Discord](https://img.shields.io/badge/Discord-92tif-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/92tif)
 
 </div>
 
@@ -109,9 +101,7 @@ Founder and former lead developer. Established core systems and foundation for f
 
 <div align="center">
 
-**Currently working on:** High-performance backend systems and scalable infrastructure solutions  
-**Open to:** Collaboration on challenging projects and technical consulting
-
-*Last updated: $(date +%B %Y)*
+**Currently working on:** Kilombo RP & Hazy Bot  
+**Focus:** Scalable infrastructure and automation systems
 
 </div>
