@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff69b4&height=200&section=header&text=Adrian%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff69b4&height=200&section=header&text=Adrian%20❄️&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 ### Full Stack Developer
 
@@ -15,17 +15,14 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-## 🧠 About Me
+## 🧠 
 
-- 💻 **Full Stack Developer** focused on performance, security & automation
-- ⚙️ Specialized in backend systems, APIs, and scalable infrastructures  
 - 🌎 Based in **Chicago, Illinois**
-- 🎯 Creating digital solutions for communities and businesses
-- 🚀 Passionate about building scalable applications and innovative platforms
+- 💻 **Full Stack Developer** specialized in backend systems, APIs, and scalable infrastructures  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 
 
 <div align="center">
 
@@ -53,7 +50,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-## 📊 GitHub Stats
+## 📊 
 
 <div align="center">
   
@@ -65,7 +62,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 ### [<img src="https://img.shields.io/badge/KILOMBO%20RP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" />](https://kilomborp.net) <img src="https://img.shields.io/badge/CEO%20%7C%20Dev-ff69b4?style=for-the-badge" />
 
@@ -94,7 +91,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-### [<img src="https://img.shields.io/badge/SPLOIT%20STORE-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />](https://sploit.store) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=for-the-badge" />
+### [<img src="https://img.shields.io/badge/SPLOIT%20STORE-9333EA?style=for-the-badge&logo=vercel&logoColor=white" />](https://sploit.store) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=for-the-badge" />
 
 > **E-commerce for Digital Products**  
 > E-commerce platform with payment system, online web store, and self-checkout functionality.
@@ -103,7 +100,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-### [<img src="https://img.shields.io/badge/FIVESOFT-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" />](https://fivesoft.cc) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=for-the-badge" />
+### [<img src="https://img.shields.io/badge/FIVESOFT-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" />](https://fivesoft.cc) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=for-the-badge" />
 
 > **FiveM Resources & Development Tools**  
 > Platform connecting clients with FiveM developers. Marketplace and project management system.
@@ -121,7 +118,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-## 📈 Profile Stats
+## 📈 
 
 <div align="center">
 
