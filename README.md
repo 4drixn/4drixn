@@ -67,86 +67,57 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### <img src="https://img.shields.io/badge/KILOMBO%20RP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" /> [→ kilomborp.net](https://kilomborp.net)
 
-### 🔷 KILOMBO RP
-**#1 ARG FiveM Server**
+> **#1 ARG FiveM Server**  
+> Argentina's #1 roleplay server with custom systems, economy, and persistence. Built by and for the community.
 
-Argentina's #1 roleplay server with custom systems, economy, and persistence. Built by and for the community.
+<kbd>FiveM</kbd> <kbd>Lua</kbd> <kbd>ESX</kbd> <kbd>MySQL</kbd> <kbd>JavaScript</kbd> <kbd>OxLib</kbd>
 
-**Tech Stack:** `FiveM` `Lua` `ESX` `MySQL` `JavaScript` `OxLib`
+---
 
-[🌐 Visit Site](https://kilomborp.net) • [📊 More Info](#)
+### <img src="https://img.shields.io/badge/KILOMBO%20LIFE-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" /> [→ kilombo.life](https://kilombo.life)
 
-</td>
-<td width="50%">
+> **Serious Argentine Roleplay Server**  
+> Serious Argentine roleplay server with unique mechanics and advanced gameplay systems.
 
-### 🔷 KILOMBO LIFE
-**Serious Argentine Roleplay**
+<kbd>FiveM</kbd> <kbd>Lua</kbd> <kbd>ESX</kbd> <kbd>MySQL</kbd>
 
-Serious Argentine roleplay server with unique mechanics and advanced gameplay systems.
+---
 
-**Tech Stack:** `FiveM` `Lua` `ESX` `MySQL`
+### <img src="https://img.shields.io/badge/HAZY%20BOT-ff69b4?style=for-the-badge&logo=discord&logoColor=white" /> [→ hazybot.net](https://hazybot.net)
 
-[🌐 Visit Site](https://kilombo.life) • [📊 More Info](#)
+> **Discord's Most Advanced Bot**  
+> The most advanced Discord bot with configurable web panel. Complete management, moderation, and automation system.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<kbd>Discord.js</kbd> <kbd>Node.js</kbd> <kbd>MongoDB</kbd> <kbd>JavaScript</kbd> <kbd>Flask</kbd>
 
-### 🔷 HAZY BOT
-**Discord's Most Advanced Bot**
+---
 
-The most advanced Discord bot with configurable web panel. Complete management, moderation, and automation system.
+### <img src="https://img.shields.io/badge/SPLOIT%20STORE-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" /> [→ sploit.store](https://sploit.store)
 
-**Tech Stack:** `Discord.js` `Node.js` `MongoDB` `JavaScript` `Flask`
+> **E-commerce for Digital Products**  
+> E-commerce platform with payment system, online web store, and self-checkout functionality.
 
-[🌐 Visit Site](https://hazybot.net) • [📊 More Info](#)
+<kbd>Flask</kbd> <kbd>JavaScript</kbd> <kbd>MySQL</kbd> <kbd>CSS3</kbd>
 
-</td>
-<td width="50%">
+---
 
-### 🔷 SPLOIT STORE
-**E-commerce Platform**
+### <img src="https://img.shields.io/badge/FIVESOFT-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white" /> [→ fivesoft.cc](https://fivesoft.cc)
 
-E-commerce platform with payment system, online web store, and self-checkout functionality.
+> **FiveM Resources & Development Tools**  
+> Platform connecting clients with FiveM developers. Marketplace and project management system.
 
-**Tech Stack:** `Flask` `JavaScript` `MySQL` `CSS3`
+<kbd>Flask</kbd> <kbd>JavaScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Python</kbd>
 
-[🌐 Visit Site](https://sploit.store) • [📊 More Info](#)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### <img src="https://img.shields.io/badge/FASO%20RP%20[Closed]-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" /> [→ fasorp.com](https://fasorp.com/)
 
-### 🔷 FIVESOFT
-**FiveM Marketplace**
+> **Previous FiveM Roleplay Project**  
+> Argentine roleplay server. Founder project where I developed base systems and laid the foundation for future developments.
 
-Platform connecting clients with FiveM developers. Marketplace and project management system.
-
-**Tech Stack:** `Flask` `JavaScript` `HTML5` `CSS3` `Python`
-
-[🌐 Visit Site](https://fivesoft.cc) • [📊 More Info](#)
-
-</td>
-<td width="50%">
-
-### 🔷 FASO RP
-**Previous Project [Closed]**
-
-Argentine roleplay server. Founder project where I developed base systems and laid the foundation for future developments.
-
-**Tech Stack:** `FiveM` `Lua` `ESX` `MySQL`
-
-[🌐 Visit Site](https://fasorp.com/) • [📊 More Info](#)
-
-</td>
-</tr>
-</table>
+<kbd>FiveM</kbd> <kbd>Lua</kbd> <kbd>ESX</kbd> <kbd>MySQL</kbd>
 
 ---
 
