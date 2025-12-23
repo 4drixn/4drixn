@@ -9,7 +9,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 [![Email](https://img.shields.io/badge/Email-adrian@hazybot.net-ff69b4?style=flat-square&logo=gmail&logoColor=white)](mailto:adrian@hazybot.net)
 [![Discord](https://img.shields.io/badge/Discord-92tif-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/92tif)
-[![Portfolio](https://img.shields.io/badge/GitHub-4drixn-181717?style=flat-square&logo=github&logoColor=white)](https://adrian.is-a.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Adrian-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://adrian.is-a.dev/)
 
 </div>
 
