@@ -1,88 +1,151 @@
 <div align="center">
 
-# Adrian
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff69b4&height=200&section=header&text=Adrian%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-**Full Stack Developer**
-
-Building digital products from Chicago  
-Specializing in performance, security & scalable systems
-
-[Website](https://adrian.is-a.dev) · [Email](mailto:adrian@hazybot.net) · [GitHub](https://github.com/4drixn)
+### Full Stack Developer
 
 </div>
 
 ---
 
-## About
+## 🧠 About Me
 
-Full stack developer focused on creating robust backend systems, APIs, and automation tools. I build Discord bots, web platforms, and FiveM server infrastructures with emphasis on clean code and user experience.
-
-**Location:** Chicago, Illinois  
-**Contact:** adrian@hazybot.net  
-**GitHub:** [@4drixn](https://github.com/4drixn)
-
----
-
-## Tech Stack
-
-**Languages**  
-JavaScript · TypeScript · Python · Lua · C++
-
-**Frameworks & Libraries**  
-React · Node.js · Flask · Discord.js
-
-**Databases & Tools**  
-MySQL · MongoDB · Docker · Git · HeidiSQL
+- 💻 Full Stack Developer focused on performance, security & automation
+- ⚙️ Specialized in backend systems, APIs, and scalable infrastructures
+- 🌎 Based in **Chicago, Illinois**
+- 📬 Contact: **adrian@hazybot.net**
 
 ---
 
-## Featured Projects
-
-### [Hazy Bot](https://hazybot.net)
-Discord's most advanced multipurpose bot with web dashboard  
-`Discord.js` `Node.js` `Flask` `MySQL`
-
-### [Kilombo RP](https://kilomborp.net)
-Argentina's #1 FiveM roleplay server with custom systems  
-`Lua` `JavaScript` `ESX` `OxLib` `MySQL`
-
-### [Kilombo Life](https://kilombo.life)
-Serious Argentine roleplay server with advanced gameplay mechanics  
-`Lua` `JavaScript` `ESX` `MySQL`
-
-### [Sploit Store](https://sploit.store)
-E-commerce platform for digital products with self-checkout  
-`Flask` `JavaScript` `MySQL` `CSS3`
-
-### [FiveSoft](https://fivesoft.cc)
-Marketplace connecting clients with FiveM developers  
-`Flask` `JavaScript` `HTML5` `CSS3` `Python`
-
-### [Faso RP](https://fasorp.com) (Historical)
-Founding project where I developed base systems for Argentine roleplay  
-`Lua` `ESX` `MySQL`
-
----
-
-## 
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f48fb1&icon_color=f48fb1&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f48fb1&text_color=c9d1d9)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## Connect
+## 📊 
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=4drixn&theme=radical&hide_border=true&background=0a0a0a&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
+
+</div>
+
+## 🚀 My Projects
+
+<div align="left">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  KILOMBO RP                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  #1 ARG FiveM Server                                                        │
+│  FiveM · Lua · ESX · MySQL                                                  │
+│                                                                             │
+```
+**[→ kilomborp.net](https://kilomborp.net)**
+
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  KILOMBO LIFE                                                               │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  Serious Argentine Roleplay Server                                          │
+│  FiveM · Lua · ESX · MySQL                                                  │
+│                                                                             │
+```
+**[→ kilombo.life](https://kilombo.life)**
+
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  HAZY BOT                                                                   │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  Discord's Most Advanced Bot                                                │
+│  Discord.js · Node.js · MongoDB · JavaScript                                │
+│                                                                             │
+```
+**[→ hazybot.net](https://hazybot.net)**
+
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  SPLOIT STORE                                                               │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  E-commerce for Digital Products                                            │
+│  Flask · JavaScript · MySQL · CSS3                                          │
+│                                                                             │
+```
+**[→ sploit.store](https://sploit.store)**
+
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  FIVESOFT                                                                   │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  FiveM Resources & Development Tools                                        │
+│  FiveM · JavaScript · HTML5 · CSS3                                          │
+│                                                                             │
+```
+**[→ fivesoft.cc](https://fivesoft.cc)**
+
+```
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  FASO RP [Closed]                                                           │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
+│  Previous FiveM Roleplay Project                                            │
+│  FiveM · Lua · ESX                                                          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📈 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-adrian%40hazybot.net-f48fb1?style=flat-square&logo=gmail&logoColor=white)](mailto:adrian@hazybot.net)
-[![GitHub](https://img.shields.io/badge/GitHub-4drixn-f48fb1?style=flat-square&logo=github&logoColor=white)](https://github.com/4drixn)
-[![Discord](https://img.shields.io/badge/Discord-92tif-f48fb1?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/92tif)
+![Profile Views](https://komarev.com/ghpvc/?username=4drixn&color=ff69b4&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/4drixn?label=Followers&style=for-the-badge&color=ff69b4&logo=github)
+![Stars](https://img.shields.io/github/stars/4drixn?label=Stars&style=for-the-badge&color=ff69b4&logo=github)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="mailto:adrian@hazybot.net"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://hazybot.net"><img src="https://img.shields.io/badge/HazyBot-ff69b4?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://kilomborp.net"><img src="https://img.shields.io/badge/KilomboRP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white"/></a>
+<a href="https://kilombo.life"><img src="https://img.shields.io/badge/Kilombo%20Life-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white"/></a>
+<a href="https://sploit.store"><img src="https://img.shields.io/badge/Sploit%20Store-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://fivesoft.cc"><img src="https://img.shields.io/badge/FiveSoft-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 </div>
 
@@ -90,6 +153,6 @@ Founding project where I developed base systems for Argentine roleplay
 
 <div align="center">
 
-**Made with ❤️ by Adrian**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:0a0a0a&height=120&section=footer" />
 
 </div>
