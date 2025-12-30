@@ -54,9 +54,10 @@ Discord bots, web platforms, and FiveM systems/servers
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_radius=10&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&border_radius=10&cache_seconds=86400)
+<a href="https://github.com/4drixn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_radius=10&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&border_radius=10&cache_seconds=86400" />
+</a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=dark&hide_border=true&background=0a0a0a&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
 
@@ -68,17 +69,17 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ### <img src="https://img.shields.io/badge/KILOMBO%20RP-0a0a0a?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/CEO%20%7C%20DEV-ff69b4?style=flat-square" />
 
-**#1 ARG FiveM Server** • <a href="https://kilomborp.net" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-ff69b4?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+**#1 ARG FiveM Server** • <a href="https://kilomborp.net" target="_blank">🌐 Website</a>
 
 Argentina's #1 roleplay server with custom systems, economy, and persistence. Built by and for the community.
 
-<code>FiveM</code> <code>Lua</code> <code>ESX</code> <code>MySQL</code> <code>JavaScript</code> <code>OxLib</code>
+<code>🎮 FiveM</code> <code>📜 Lua</code> <code>⚙️ ESX</code> <code>🗄️ MySQL</code> <code>🌐 JavaScript</code> <code>📦 OxLib</code>
 
 ---
 
 ### <img src="https://img.shields.io/badge/KILOMBO%20LIFE-06B6D4?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/MANAGEMENT%20%7C%20GAME%20DEV-ff69b4?style=flat-square" />
 
-**Serious Argentine Roleplay Server** • <a href="https://kilombo.life" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-ff69b4?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+**Serious Argentine Roleplay Server** • <a href="https://kilombo.life" target="_blank">🌐 Website</a>
 
 Serious Argentine roleplay server with unique mechanics and advanced gameplay systems.
 
@@ -88,7 +89,7 @@ Serious Argentine roleplay server with unique mechanics and advanced gameplay sy
 
 ### <img src="https://img.shields.io/badge/HAZY%20BOT-DC2626?style=flat-square&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/OWNER%20%7C%20DEV-ff69b4?style=flat-square" />
 
-**Discord's Most Advanced Bot** • <a href="https://hazybot.net" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-ff69b4?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+**Discord's Most Advanced Bot** • <a href="https://hazybot.net" target="_blank">🌐 Website</a>
 
 The most advanced Discord bot with configurable web panel. Complete management, moderation, and automation system.
 
@@ -98,7 +99,7 @@ The most advanced Discord bot with configurable web panel. Complete management, 
 
 ### <img src="https://img.shields.io/badge/SPLOIT%20STORE-9333EA?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/LEAD%20DEV-ff69b4?style=flat-square" />
 
-**E-commerce for Digital Products** • <a href="https://sploit.store" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-ff69b4?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+**E-commerce for Digital Products** • <a href="https://sploit.store" target="_blank">🌐 Website</a>
 
 E-commerce platform with payment system, online web store, and self-checkout functionality.
 
@@ -108,7 +109,7 @@ E-commerce platform with payment system, online web store, and self-checkout fun
 
 ### <img src="https://img.shields.io/badge/FIVESOFT-2563EB?style=flat-square&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/LEAD%20DEV-ff69b4?style=flat-square" />
 
-**FiveM Resources & Development Tools** • <a href="https://fivesoft.cc" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-ff69b4?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+**FiveM Resources & Development Tools** • <a href="https://fivesoft.cc" target="_blank">🌐 Website</a>
 
 Platform connecting clients with FiveM developers. Marketplace and project management system.
 
@@ -118,7 +119,7 @@ Platform connecting clients with FiveM developers. Marketplace and project manag
 
 ### <img src="https://img.shields.io/badge/FASO%20RP%20[Closed]-0a0a0a?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/EX%20FOUNDER-ff69b4?style=flat-square" />
 
-**Previous FiveM Roleplay Project** • <a href="https://fasorp.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-ff69b4?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+**Previous FiveM Roleplay Project** • <a href="https://fasorp.com/" target="_blank">🌐 Website</a>
 
 Argentine roleplay server. Founder project where I developed base systems and laid the foundation for future developments.
 
