@@ -50,20 +50,6 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  
-<a href="https://github.com/4drixn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_radius=10&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&border_radius=10&cache_seconds=86400" />
-</a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4drixn&theme=dark&hide_border=true&background=0a0a0a&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
-
-</div>
-
----
 
 ## Projects
 
