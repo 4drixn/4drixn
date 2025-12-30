@@ -15,14 +15,14 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-## 🧠 
+## About
 
 - 🌎 Based in **Chicago, Illinois**
 - 💻 **Full Stack Developer** specialized in backend systems, APIs, and scalable infrastructures  
 
 ---
 
-## 🛠️ 
+## Tech Stack
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-## 📊 
+## GitHub Stats
 
 <div align="center">
   
@@ -62,84 +62,84 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ---
 
-## 🚀 My Projects
+## Projects
 
-### [<img src="https://img.shields.io/badge/KILOMBO%20RP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" />](https://kilomborp.net) <img src="https://img.shields.io/badge/CEO%20%7C%20Dev-ff69b4?style=for-the-badge" />
+### Kilombo RP
+**#1 ARG FiveM Server** • [Website](https://kilomborp.net) • CEO & Developer
 
-> **#1 ARG FiveM Server**  
-> Argentina's #1 roleplay server with custom systems, economy, and persistence. Built by and for the community.
+Argentina's #1 roleplay server with custom systems, economy, and persistence. Built by and for the community.
 
-<kbd>🎮 FiveM</kbd> <kbd>📜 Lua</kbd> <kbd>⚙️ ESX</kbd> <kbd>🗄️ MySQL</kbd> <kbd>🌐 JavaScript</kbd> <kbd>📦 OxLib</kbd>
-
----
-
-### [<img src="https://img.shields.io/badge/KILOMBO%20LIFE-06B6D4?style=for-the-badge&logo=fivem&logoColor=white" />](https://kilombo.life) <img src="https://img.shields.io/badge/Management%20%7C%20Game%20Dev-ff69b4?style=for-the-badge" />
-
-> **Serious Argentine Roleplay Server**  
-> Serious Argentine roleplay server with unique mechanics and advanced gameplay systems.
-
-<kbd>🎮 FiveM</kbd> <kbd>📜 Lua</kbd> <kbd>⚙️ ESX</kbd> <kbd>🗄️ MySQL</kbd>
+`FiveM` `Lua` `ESX` `MySQL` `JavaScript` `OxLib`
 
 ---
 
-### [<img src="https://img.shields.io/badge/HAZY%20BOT-DC2626?style=for-the-badge&logo=discord&logoColor=white" />](https://hazybot.net) <img src="https://img.shields.io/badge/Owner%20%7C%20Dev-ff69b4?style=for-the-badge" />
+### Kilombo Life
+**Serious Argentine Roleplay Server** • [Website](https://kilombo.life) • Management & Game Dev
 
-> **Discord's Most Advanced Bot**  
-> The most advanced Discord bot with configurable web panel. Complete management, moderation, and automation system.
+Serious Argentine roleplay server with unique mechanics and advanced gameplay systems.
 
-<kbd>🤖 Discord.js</kbd> <kbd>📦 Node.js</kbd> <kbd>💾 MongoDB</kbd> <kbd>🌐 JavaScript</kbd> <kbd>🔧 Flask</kbd>
-
----
-
-### [<img src="https://img.shields.io/badge/SPLOIT%20STORE-9333EA?style=for-the-badge&logo=vercel&logoColor=white" />](https://sploit.store) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=for-the-badge" />
-
-> **E-commerce for Digital Products**  
-> E-commerce platform with payment system, online web store, and self-checkout functionality.
-
-<kbd>🔧 Flask</kbd> <kbd>🌐 JavaScript</kbd> <kbd>🗄️ MySQL</kbd> <kbd>🎨 CSS3</kbd>
+`FiveM` `Lua` `ESX` `MySQL`
 
 ---
 
-### [<img src="https://img.shields.io/badge/FIVESOFT-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" />](https://fivesoft.cc) <img src="https://img.shields.io/badge/Lead%20Dev-ff69b4?style=for-the-badge" />
+### Hazy Bot
+**Discord's Most Advanced Bot** • [Website](https://hazybot.net) • Owner & Developer
 
-> **FiveM Resources & Development Tools**  
-> Platform connecting clients with FiveM developers. Marketplace and project management system.
+The most advanced Discord bot with configurable web panel. Complete management, moderation, and automation system.
 
-<kbd>🔧 Flask</kbd> <kbd>🌐 JavaScript</kbd> <kbd>📄 HTML5</kbd> <kbd>🎨 CSS3</kbd> <kbd>🐍 Python</kbd>
-
----
-
-### [<img src="https://img.shields.io/badge/FASO%20RP%20[Closed]-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white" />](https://fasorp.com/) <img src="https://img.shields.io/badge/Ex%20Founder-ff69b4?style=for-the-badge" />
-
-> **Previous FiveM Roleplay Project**  
-> Argentine roleplay server. Founder project where I developed base systems and laid the foundation for future developments.
-
-<kbd>🎮 FiveM</kbd> <kbd>📜 Lua</kbd> <kbd>⚙️ ESX</kbd> <kbd>🗄️ MySQL</kbd>
+`Discord.js` `Node.js` `MongoDB` `JavaScript` `Flask`
 
 ---
 
-## 📈 
+### Sploit Store
+**E-commerce for Digital Products** • [Website](https://sploit.store) • Lead Developer
+
+E-commerce platform with payment system, online web store, and self-checkout functionality.
+
+`Flask` `JavaScript` `MySQL` `CSS3`
+
+---
+
+### FiveSoft
+**FiveM Resources & Development Tools** • [Website](https://fivesoft.cc) • Lead Developer
+
+Platform connecting clients with FiveM developers. Marketplace and project management system.
+
+`Flask` `JavaScript` `HTML5` `CSS3` `Python`
+
+---
+
+### Faso RP [Closed]
+**Previous FiveM Roleplay Project** • [Website](https://fasorp.com/) • Ex-Founder
+
+Argentine roleplay server. Founder project where I developed base systems and laid the foundation for future developments.
+
+`FiveM` `Lua` `ESX` `MySQL`
+
+---
+
+## Stats
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=4drixn&color=ff69b4&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/4drixn?label=Followers&style=for-the-badge&color=ff69b4&logo=github)
-![Stars](https://img.shields.io/github/stars/4drixn?label=Stars&style=for-the-badge&color=ff69b4&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=4drixn&color=ff69b4&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/4drixn?label=Followers&style=flat-square&color=ff69b4&logo=github)
+![Stars](https://img.shields.io/github/stars/4drixn?label=Stars&style=flat-square&color=ff69b4&logo=github)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-adrian@hazybot.net-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian@hazybot.net)
-[![HazyBot](https://img.shields.io/badge/HazyBot-ff69b4?style=for-the-badge&logo=discord&logoColor=white)](https://hazybot.net)
-[![KilomboRP](https://img.shields.io/badge/KilomboRP-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white)](https://kilomborp.net)
-[![Kilombo Life](https://img.shields.io/badge/Kilombo%20Life-0a0a0a?style=for-the-badge&logo=fivem&logoColor=white)](https://kilombo.life)
-[![Sploit Store](https://img.shields.io/badge/Sploit%20Store-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://sploit.store)
-[![FiveSoft](https://img.shields.io/badge/FiveSoft-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white)](https://fivesoft.cc)
+[![Email](https://img.shields.io/badge/Email-adrian@hazybot.net-ff69b4?style=flat-square&logo=gmail&logoColor=white)](mailto:adrian@hazybot.net)
+[![HazyBot](https://img.shields.io/badge/HazyBot-ff69b4?style=flat-square&logo=discord&logoColor=white)](https://hazybot.net)
+[![KilomboRP](https://img.shields.io/badge/KilomboRP-0a0a0a?style=flat-square&logo=fivem&logoColor=white)](https://kilomborp.net)
+[![Kilombo Life](https://img.shields.io/badge/Kilombo%20Life-0a0a0a?style=flat-square&logo=fivem&logoColor=white)](https://kilombo.life)
+[![Sploit Store](https://img.shields.io/badge/Sploit%20Store-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://sploit.store)
+[![FiveSoft](https://img.shields.io/badge/FiveSoft-0a0a0a?style=flat-square&logo=codeforces&logoColor=white)](https://fivesoft.cc)
 
 </div>
 
