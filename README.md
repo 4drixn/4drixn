@@ -54,9 +54,9 @@ Discord bots, web platforms, and FiveM systems/servers
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=transparent&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drixn&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=transparent&hide_border=true&title_color=ff69b4&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4drixn&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff69b4&text_color=ffffff&border_radius=10)
 
 </div>
 
@@ -64,57 +64,63 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ## Projects
 
-### Kilombo RP
-**#1 ARG FiveM Server** • [Website](https://kilomborp.net) • CEO & Developer
+### <img src="https://img.shields.io/badge/KILOMBO%20RP-0a0a0a?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/CEO%20%7C%20DEV-ff69b4?style=flat-square" />
+
+**#1 ARG FiveM Server** • [Website](https://kilomborp.net)
 
 Argentina's #1 roleplay server with custom systems, economy, and persistence. Built by and for the community.
 
-`FiveM` `Lua` `ESX` `MySQL` `JavaScript` `OxLib`
+<code>FiveM</code> <code>Lua</code> <code>ESX</code> <code>MySQL</code> <code>JavaScript</code> <code>OxLib</code>
 
 ---
 
-### Kilombo Life
-**Serious Argentine Roleplay Server** • [Website](https://kilombo.life) • Management & Game Dev
+### <img src="https://img.shields.io/badge/KILOMBO%20LIFE-06B6D4?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/MANAGEMENT%20%7C%20GAME%20DEV-ff69b4?style=flat-square" />
+
+**Serious Argentine Roleplay Server** • [Website](https://kilombo.life)
 
 Serious Argentine roleplay server with unique mechanics and advanced gameplay systems.
 
-`FiveM` `Lua` `ESX` `MySQL`
+<code>FiveM</code> <code>Lua</code> <code>ESX</code> <code>MySQL</code>
 
 ---
 
-### Hazy Bot
-**Discord's Most Advanced Bot** • [Website](https://hazybot.net) • Owner & Developer
+### <img src="https://img.shields.io/badge/HAZY%20BOT-DC2626?style=flat-square&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/OWNER%20%7C%20DEV-ff69b4?style=flat-square" />
+
+**Discord's Most Advanced Bot** • [Website](https://hazybot.net)
 
 The most advanced Discord bot with configurable web panel. Complete management, moderation, and automation system.
 
-`Discord.js` `Node.js` `MongoDB` `JavaScript` `Flask`
+<code>Discord.js</code> <code>Node.js</code> <code>MongoDB</code> <code>JavaScript</code> <code>Flask</code>
 
 ---
 
-### Sploit Store
-**E-commerce for Digital Products** • [Website](https://sploit.store) • Lead Developer
+### <img src="https://img.shields.io/badge/SPLOIT%20STORE-9333EA?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/LEAD%20DEV-ff69b4?style=flat-square" />
+
+**E-commerce for Digital Products** • [Website](https://sploit.store)
 
 E-commerce platform with payment system, online web store, and self-checkout functionality.
 
-`Flask` `JavaScript` `MySQL` `CSS3`
+<code>Flask</code> <code>JavaScript</code> <code>MySQL</code> <code>CSS3</code>
 
 ---
 
-### FiveSoft
-**FiveM Resources & Development Tools** • [Website](https://fivesoft.cc) • Lead Developer
+### <img src="https://img.shields.io/badge/FIVESOFT-2563EB?style=flat-square&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/LEAD%20DEV-ff69b4?style=flat-square" />
+
+**FiveM Resources & Development Tools** • [Website](https://fivesoft.cc)
 
 Platform connecting clients with FiveM developers. Marketplace and project management system.
 
-`Flask` `JavaScript` `HTML5` `CSS3` `Python`
+<code>Flask</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Python</code>
 
 ---
 
-### Faso RP [Closed]
-**Previous FiveM Roleplay Project** • [Website](https://fasorp.com/) • Ex-Founder
+### <img src="https://img.shields.io/badge/FASO%20RP%20[Closed]-0a0a0a?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/EX%20FOUNDER-ff69b4?style=flat-square" />
+
+**Previous FiveM Roleplay Project** • [Website](https://fasorp.com/)
 
 Argentine roleplay server. Founder project where I developed base systems and laid the foundation for future developments.
 
-`FiveM` `Lua` `ESX` `MySQL`
+<code>FiveM</code> <code>Lua</code> <code>ESX</code> <code>MySQL</code>
 
 ---
 
@@ -150,3 +156,4 @@ Argentine roleplay server. Founder project where I developed base systems and la
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:0a0a0a&height=120&section=footer" />
 
 </div>
+
