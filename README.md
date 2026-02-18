@@ -17,10 +17,8 @@ Discord bots, web platforms, and FiveM systems/servers
 
 ## About
 
-- 🌎 Based in **Chicago, Illinois**
-- 💻 **Full Stack Developer** specialized in backend systems, APIs, and scalable infrastructures  
-- 🚀 Focused on performance, security, and clean architecture  
-- 🧠 Experience building production-grade systems used by thousands of users  
+- Based in **Chicago, Illinois**
+- Specialized in backend systems, APIs, and scalable infrastructures  
 
 ---
 
