@@ -12,7 +12,7 @@ Full Stack Developer · Chicago, Illinois
 
 ***
 
-Building backend systems, APIs, and scalable infrastructure — Discord bots, web platforms, and FiveM servers.
+Building backend systems, APIs, and scalable infrastructures — Discord bots, web platforms, and FiveM servers.
 
 ***
 
@@ -31,7 +31,6 @@ Building backend systems, APIs, and scalable infrastructure — Discord bots, we
 ***
 
 <img src="https://komarev.com/ghpvc/?username=4drixn&color=e8a0b4&style=flat-square&label=views" />&nbsp;
-<img src="https://img.shields.io/github/followers/4drixn?label=followers&style=flat-square&color=e8a0b4&logo=github&logoColor=white&labelColor=0d0d0d" />&nbsp;
 <img src="https://img.shields.io/github/stars/4drixn?label=stars&style=flat-square&color=e8a0b4&logo=github&logoColor=white&labelColor=0d0d0d" />
 
 </div>
